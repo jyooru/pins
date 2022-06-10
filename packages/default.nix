@@ -12,6 +12,7 @@ rec {
   nixos-org = callPackage ./org/nixos { inherit (inputs) nixos-org; };
 
   syncthing-net = callPackage ./net/syncthing { };
+  docs-syncthing-net = callPackage ./net/syncthing/docs { };
 
   blog-rust-lang-org = callPackage ./org/rust-lang/blog { };
   prev-rust-lang-org = callPackage ./org/rust-lang/prev { };
