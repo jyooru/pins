@@ -23,7 +23,7 @@ stdenv.mkDerivation {
 
   meta = with lib; {
     homepage = "https://nixos.org/";
-    license = licenses.mit;
+    license = with licenses; [ cc-by-sa-40 mit ];
     maintainers = with maintainers; [ jyooru ];
   };
 }

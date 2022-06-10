@@ -39,7 +39,6 @@ stdenv.mkDerivation {
 
   meta = with lib; {
     homepage = "https://yggdrasil-network.github.io/";
-    license = licenses.mit;
     maintainers = with maintainers; [ jyooru ];
   };
 }
