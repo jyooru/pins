@@ -1,7 +1,5 @@
 { lib, stdenv, nixos-org, system }:
 
-with lib;
-
 stdenv.mkDerivation {
   pname = "nixos-org";
   version = toString nixos-org.lastModifiedDate;
@@ -24,7 +22,7 @@ stdenv.mkDerivation {
   '';
 
   meta = with lib; {
-    homepage = "https://github.com/NixOS/nixos-homepage";
+    homepage = "https://nixos.org/";
     license = licenses.mit;
     maintainers = with maintainers; [ jyooru ];
   };
