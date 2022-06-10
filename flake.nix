@@ -10,6 +10,8 @@
     utils.lib.mkFlake {
       inherit self inputs;
 
+      supportedSystems = [ "x86_64-linux" ];
+
       outputsBuilder = channels:
         let pkgs = channels.nixpkgs; in
         with pkgs;
