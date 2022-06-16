@@ -1,4 +1,4 @@
-{ lib, stdenv, fetchFromGitHub, python3, mkdocs-bootswatch }:
+{ lib, stdenv, fetchFromGitHub, python3 }:
 
 stdenv.mkDerivation {
   pname = "r-roms-github-io";
@@ -11,8 +11,8 @@ stdenv.mkDerivation {
     hash = "sha256-xhVzzeVJASmEAdjJ3RTD4lLMnqOdKerdRVRERN70S5k=";
   };
 
-  nativeBuildInputs = [
-    python3.pkgs.mkdocs
+  nativeBuildInputs = with python3.pkgs; [
+    mkdocs
     mkdocs-bootswatch
   ];
 

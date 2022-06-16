@@ -12,11 +12,18 @@
 
       supportedSystems = [ "x86_64-linux" ];
 
+      sharedOverlays = [
+        (final: prev: prev.lib.recursiveUpdate prev
+          (import ./packages { pkgs = final; }))
+      ];
+
       outputsBuilder = channels:
-        let pkgs = channels.nixpkgs; in
-        with pkgs;
+        let args = { inherit inputs; pkgs = channels.nixpkgs; }; in
+        with nixpkgs.lib;
         rec {
-          packages = import ./packages { inherit inputs pkgs; };
+          packages = import ./packages args // {
+            websites = recurseIntoAttrs (import ./websites args);
+          };
         };
     };
 }
