@@ -12,6 +12,7 @@
 
       supportedSystems = [ "x86_64-linux" ];
 
+      channelsConfig.allowUnfree = true;
       sharedOverlays = [
         (final: prev: prev.lib.recursiveUpdate prev
           (import ./packages { pkgs = final; }))
