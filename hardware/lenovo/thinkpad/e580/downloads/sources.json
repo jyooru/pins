@@ -1,0 +1,4972 @@
+{
+  "message": "succeed",
+  "body": {
+    "AllCategories": [
+      "Audio",
+      "BIOS/UEFI",
+      "Bluetooth and Modem",
+      "Camera and Card Reader",
+      "Diagnostic",
+      "Enterprise Management",
+      "Fingerprint Reader",
+      "Graphics Processing Units (GPU) and Server-AI Accelerators",
+      "Motherboard Devices (core chipset, onboard video, PCIe switches)",
+      "Mouse, Touchpad, Keyboard and Pen",
+      "Networking: LAN (Ethernet)",
+      "Networking: Wireless LAN",
+      "Power Management",
+      "Software and Utilities",
+      "Storage",
+      "ThinkVantage Technology"
+    ],
+    "AllOperatingSystems": [
+      {
+        "ID": "D762E7C5-45AB-4B40-90A0-1341190A57BB",
+        "Name": "Windows 10 (64-bit)"
+      },
+      {
+        "ID": "1AE839A4-0656-4207-A236-F8FDFC596E76",
+        "Name": "Windows 7 (32-bit)"
+      },
+      {
+        "ID": "58B7BD1D-0F54-4783-8683-961FE1EC5328",
+        "Name": "Windows 7 (64-bit)"
+      },
+      {
+        "ID": "575FDE7F-E5BB-49A1-9A4F-B3FF6FC5528A",
+        "Name": "Windows 8.1 (64-bit)"
+      },
+      {
+        "ID": "460C9F5D-7ECF-4AD4-9A05-AF97FB69492B",
+        "Name": "Fedora"
+      },
+      {
+        "ID": "56E33E65-ACCE-4579-A246-24F244851827",
+        "Name": "Red Hat Enterprise Linux 8 (64-bit)"
+      },
+      {
+        "ID": "80A12C8D-8411-404B-BC3B-61368ECCDE17",
+        "Name": "Ubuntu 18"
+      },
+      {
+        "ID": "8E109CDC-B05F-4BB4-B016-47A1F218D64F",
+        "Name": "Windows 11 (64-bit)"
+      }
+    ],
+    "AllPriorities": [
+      "Recommended",
+      "Critical"
+    ],
+    "DownloadItems": [
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (32-bit)",
+          "Windows 10 (64-bit)",
+          "Windows 11 (32-bit)",
+          "Windows 11 (64-bit)",
+          "Windows 7 (32-bit)",
+          "Windows 7 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo System Update",
+            "TypeString": "EXE",
+            "Version": "5.07.0136",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.0136.exe",
+            "Size": "8.24 MB",
+            "SHA1": "0650b5263193347ae4e98aeca8afe047413be0cb",
+            "SHA256": "8ab744c35a346d43ddfff64d975467261638acf01c6a743ebfd4d52e56ca18d7",
+            "MD5": "52ced3dfb71f46ba24b67e5606388979",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1648796580000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "5.07.0136",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.0136.txt",
+            "Size": "21.18 KB",
+            "SHA1": "ffe8dcfda31c3e7154ee6a4ff304b9d6b504113b",
+            "SHA256": "2235bb12a34564fcf27cbcef03ef0a5b261068023139236c15cac6fbfc073dd5",
+            "MD5": "dfe070b2b24ee7a0987414d99d25405c",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1648796580000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS012808-LENOVO-SYSTEM-UPDATE-FOR-WINDOWS-10-7-32-BIT-64-BIT-DESKTOP-NOTEBOOK-WORKSTATION",
+          "DS012808",
+          "D295217D-1898-40AB-94CD-A729A310EBB0"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "5.07.0136"
+        },
+        "DocId": "DS012808",
+        "Title": "Lenovo System Update for Windows 11, 10 & 7 (32-bit, 64-bit) - Desktop, Notebook, Workstation",
+        "Date": {
+          "Unix": 1648796580000
+        },
+        "Hit": "5969209",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "System Update enables IT administrators to distribute updates for software, drivers, and BIOS in a managed environment from a local server.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1648796659000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "0",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Lenovo System Update for Windows 11, 10 & 7 (32-bit, 64-bit) - Desktop, Notebook, Workstation",
+        "Category": {
+          "Name": "ThinkVantage Technology",
+          "Classify": "dl-category-thinkvantage",
+          "ID": "8FA7E883-9036-4E57-A106-3C9FA89F1490"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 7 (64-bit)"
+        ],
+        "Files": [],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS104501-LENOVO-SOLUTION-CENTER-FOR-WINDOWS-7-64-BIT-DESKTOPS-NOTEBOOKS-WORKSTATIONS",
+          "DS104501",
+          "A05BB5F8-9F1C-4446-B989-95C64B45D935"
+        ],
+        "SummaryInfo": {
+          "Priority": "Optional",
+          "Version": ""
+        },
+        "DocId": "DS104501",
+        "Title": "Lenovo Solution Center for Windows 7 (64-bit) - Desktops, Notebooks, Workstations",
+        "Date": {
+          "Unix": 1549058400000
+        },
+        "Hit": "2966779",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "NOTE : Lenovo Solution Center has ended support effective 2019-04, it is highly recommended to change over to Lenovo Vantage (Pre-loaded on your PC) or to Lenovo Diagnostic\u00a0for Windows 10 or Windows 7.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1567709900000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Diagnostic",
+          "Classify": "dl-category-diags",
+          "ID": "B39ECAD7-69BC-4CC0-B8C7-25D5553C5887"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (32-bit)",
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo System Interface Foundation",
+            "TypeString": "EXE",
+            "Version": "1.1.20.3",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/sif11ww203.exe",
+            "Size": "389.44 MB",
+            "SHA1": "99d5f72df2c43ac6c4a5da2bfa9ad1313232529c",
+            "SHA256": "572381806d9500bc243dead0e2083f619435fd55307ad1ae2aaaec46fa49a36a",
+            "MD5": "2e66584007586f11f8ad7bc4b5e9e403",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1640156760000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "1.1.20.3",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/sif11ww203.txt",
+            "Size": "5.86 KB",
+            "SHA1": "065732263ec69fbae6918ed53f298fb1f6a713ea",
+            "SHA256": "0b9eb0f8812d43331c046ded58168fccde77e10340ab9acedb17adce88b98563",
+            "MD5": "8314c3651f156de114296efaeac81e7a",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1640156820000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS105970-LENOVO-SYSTEM-INTERFACE-FOUNDATION-FOR-WINDOWS-10-32-BIT-64-BIT-THINKPAD-THINKCENTRE-IDEAPAD-IDEACENTRE-THINKSTATION",
+          "DS105970",
+          "B6EEF0ED-F8D3-41CD-ABC6-BAF118E24807"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.1.20.3"
+        },
+        "DocId": "DS105970",
+        "Title": "Lenovo System Interface Foundation for Windows 11 (64-bit), 10 (32-bit, 64-bit) - ThinkPad, ThinkCentre, IdeaPad, IdeaCentre, ThinkStation",
+        "Date": {
+          "Unix": 1640155860000
+        },
+        "Hit": "2149220",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package updates the Lenovo System Interface Foundation to fix problems, add new   functions, or expand functions.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1640157214000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Lenovo System Interface Foundation for Windows 11 (64-bit), 10 (32-bit, 64-bit) - ThinkPad, ThinkCentre, IdeaPad, IdeaCentre, ThinkStation",
+        "Category": {
+          "Name": "Software and Utilities",
+          "Classify": "dl-category-software",
+          "ID": "156BE23F-B536-4320-B35C-2F67EBDD9242"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Diagnostics for Windows 64-bit",
+            "TypeString": "EXE",
+            "Version": "4.43.0",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.43.0_windows_x64.exe",
+            "Size": "29.28 MB",
+            "SHA1": "9b8b90c52e9ddd6feaab20dab33c0b2c695c2f86",
+            "SHA256": "f9ae45040968641d301ebd6e5df3d443b1584565b546bb2ab0ca881c12d05226",
+            "MD5": "696ee1b69891cb2b7d140c60e7ab5e20",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1652937660000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "4.43.0",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.43.0_windows_release_notes.txt",
+            "Size": "97.37 KB",
+            "SHA1": "4062221ee80141b1722e0a22f4af182cd82a664e",
+            "SHA256": "e61bd44d9d80def574ff6541b54306c248c9673602d89d4dff4f7b40e1e616ad",
+            "MD5": "0c64de31375b6dc0a3c24c22502dc934",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1652937720000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Diagnostics User Guide",
+            "TypeString": "PDF",
+            "Version": "4.43.0",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.43.0_windows_ug.pdf",
+            "Size": "3.46 MB",
+            "SHA1": "3e42d56824d1ebcb63dd271c2aa3453228f1ffbf",
+            "SHA256": "7b25d13d4d2736cefeaa20a02d889d762afd4cf2caf40ba965f1bb5b94e9b5a0",
+            "MD5": "f571be0760ffd7d06168fe9d8f715c83",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1652937720000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS102688-LENOVO-DIAGNOSTICS-FOR-WINDOWS-10-64-BIT-81-64-BIT-8-64-BIT-7-64-BIT-2003-ADVANCED-SERVER-64-BIT-AND-2008-ADVANCED-SERVER-64-BIT-DESKTOPS-NOTEBOOKS-WORKSTATIONS",
+          "DS102688",
+          "2083A9FF-2AE1-4575-9A15-1E9A9A49E201"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "4.43.0"
+        },
+        "DocId": "DS102688",
+        "Title": "Lenovo Diagnostics for Windows 11 (64-bit), 10 (64-bit) - Desktops, Notebooks, Workstations",
+        "Date": {
+          "Unix": 1652937720000
+        },
+        "Hit": "1054460",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Lenovo Diagnostics is a diagnostic tool that tests various devices in Lenovo computers providing feedback to the users about their machines health.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1652937781000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Lenovo Diagnostics for Windows 11 (64-bit), 10 (64-bit) - Desktops, Notebooks, Workstations",
+        "Category": {
+          "Name": "Diagnostic",
+          "Classify": "dl-category-diags",
+          "ID": "B39ECAD7-69BC-4CC0-B8C7-25D5553C5887"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (32-bit)",
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Bootable Generator",
+            "TypeString": "EXE",
+            "Version": "",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/lenovo_bootable_generator2.1.1.exe",
+            "Size": "11 MB",
+            "SHA1": "3cd4b823958468047fd4dfa95a4c8f61b35c80af",
+            "SHA256": "80fd3a021d4156a0bd8aea7b38c0c48168647bba8fcf3343b1ccbd6367387cbb",
+            "MD5": "98b91127f7a5c666b33df26e064a4d3b",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1574218860000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Create Bootable USB with UEFI Diagnostics",
+            "TypeString": "zip",
+            "Version": "v04.25.000",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_v04.25.000_bootable_uefi.zip",
+            "Size": "359.87 KB",
+            "SHA1": "e4d32a2711eac2a878d5286c81ff018751e9c388",
+            "SHA256": "a0adc1325f49fa6c3dc5830b80d25a3a649b33fdbd8068239f64f0c98239b738",
+            "MD5": "ace504b7f2fae378ac66613ac9cd9acd",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1653912420000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS030861-LENOVO-UEFI-DIAGNOSTICS-BOOTABLE-USB-CREATE-IT-ON-WINDOWS-OS-DESKTOPS-NOTEBOOKS-WORKSTATIONS",
+          "DS030861",
+          "4E2E88E0-CBB9-48F6-B38A-4A3526C09F8C"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": ""
+        },
+        "DocId": "DS030861",
+        "Title": "Lenovo UEFI Diagnostics - Bootable USB (Create it on Windows OS) - Desktops, Notebooks, Workstations",
+        "Date": {
+          "Unix": 1635120000000
+        },
+        "Hit": "1008877",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Lenovo UEFI Diagnostics ",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1653912480000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "0",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Lenovo UEFI Diagnostics - Bootable USB (Create it on Windows OS) - Desktops, Notebooks, Workstations",
+        "Category": {
+          "Name": "Diagnostic",
+          "Classify": "dl-category-diags",
+          "ID": "B39ECAD7-69BC-4CC0-B8C7-25D5553C5887"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (32-bit)",
+          "Windows 10 (64-bit)",
+          "Windows 7 (32-bit)",
+          "Windows 7 (64-bit)",
+          "Windows 8 (32-bit)",
+          "Windows 8 (64-bit)",
+          "Windows 8.1 (32-bit)",
+          "Windows 8.1 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "ThinkPad Setup Settings Capture/Playback Utility for Windows(SRSETUPWIN)",
+            "TypeString": "zip",
+            "Version": "3.11",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2hts02w.zip",
+            "Size": "160 KB",
+            "SHA1": "51cf8dbef8c3c8f01e6f7f6870799741d1a313a3",
+            "SHA256": "013af4f88c927c27d5accb1cc26f1d8cbbcbe940b7ab2fc42c897346900e618d",
+            "MD5": "97f9b5c6a29730986039142e0d250b00",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1568350320000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "3.11",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2hts02w.txt",
+            "Size": "17.54 KB",
+            "SHA1": "07100f4ce8d38216eb9799290252d59a76c3d5c9",
+            "SHA256": "2bd259be3fa2ff231f5f96a44bed533cac020f64b4d1e0b3f2debaf54df9a3b7",
+            "MD5": "477aa9a76e7cc89a8a61dd79c803c523",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1568350380000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS032441-THINKPAD-SETUP-SETTINGS-CAPTUREPLAYBACK-UTILITY-FOR-WINDOWS-SRSETUPWIN-FOR-WINDOWS-10-32-BIT-64-BIT-81-32-BIT-64-BIT-8-32-BIT-64-BIT-7-32-BIT-64-BIT-THINKPAD",
+          "DS032441",
+          "BD533AD9-4C9C-4980-9998-0731691CFB2F"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "3.11"
+        },
+        "DocId": "DS032441",
+        "Title": "ThinkPad Setup Settings Capture/Playback Utility for Windows (SRSETUPWIN) for Windows 10 (32-bit, 64-bit), 8.1 (32-bit, 64-bit), 8 (32-bit, 64-bit), 7 (32-bit, 64-bit)- ThinkPad",
+        "Date": {
+          "Unix": 1454601600000
+        },
+        "Hit": "386434",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "ThinkPad Setup Settings Capture/Playback Utility for Windows (SRSETUPWIN) for Windows 10 (32-bit, 64-bit), 8.1 (32-bit, 64-bit), 8 (32-bit, 64-bit), 7 (32-bit, 64-bit)- ThinkPad",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1649230552000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "ThinkPad Setup Settings Capture/Playback Utility for Windows (SRSETUPWIN) for Windows 10 (32-bit, 64-bit), 8.1 (32-bit, 64-bit), 8 (32-bit, 64-bit), 7 (32-bit, 64-bit)- ThinkPad",
+        "Category": {
+          "Name": "BIOS/UEFI",
+          "Classify": "dl-category-bios",
+          "ID": "5AC6A815-321D-440E-8833-B07A93E0428C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows Vista (32-Bit)",
+          "Windows Vista (64-Bit)",
+          "Windows XP (32-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README for System Update 3.16",
+            "TypeString": "TXT README",
+            "Version": "3.16.0010",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/systemupdate3.16.0010-2016-07-20.txt",
+            "Size": "11.3 KB",
+            "SHA1": "3e461cc59d7f4b1dd3c71f2c65d710811aa067be",
+            "SHA256": "6fe29de07e89aaa67a5aa1343ec1f20197ba778ad6360320db8a494a7ebaadf9",
+            "MD5": "9b9b376f63753c2a075c28bd5fdb94af",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1470700800000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "System Update 3.16",
+            "TypeString": "EXE",
+            "Version": "3.16.0010",
+            "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/systemupdate3.16.0010-2016-07-20.exe",
+            "Size": "16.2 MB",
+            "SHA1": "7842555bcdeba40bb3fdf78b7469a25159060821",
+            "SHA256": "fd7fac2a90e07dfcc5e6531cd63665bfd83476f736d086fa80a35bbfb4e581df",
+            "MD5": "e48760bd2b1da4dbbfac066b08a4a09b",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1470700800000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS013489-THINKVANTAGE-SYSTEM-UPDATE-316-FOR-WINDOWS-VISTA-32-BIT-64-BIT-XP-2000",
+          "DS013489",
+          "974ECA7A-3502-4620-B951-D162F7374FCA",
+          "MIGR-66956"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "3.16.0010"
+        },
+        "DocId": "DS013489",
+        "Title": "ThinkVantage System Update 3.16 for Windows Vista (32-bit, 64-bit), XP, 2000",
+        "Date": {
+          "Unix": 1470686400000
+        },
+        "Hit": "312724",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "System Update enables IT administrators to distribute updates for software, drivers, and BIOS in a managed environment from a local server.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1607534923000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "ThinkVantage Technology",
+          "Classify": "dl-category-thinkvantage",
+          "ID": "8FA7E883-9036-4E57-A106-3C9FA89F1490"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (32-bit)",
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Auto Scroll Utility",
+            "TypeString": "EXE",
+            "Version": "2.23",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/gfvv33ew.exe",
+            "Size": "1 MB",
+            "SHA1": "7c26df10c957a7a1be1fac1ce3e0cba302c12816",
+            "SHA256": "0944cf67e29885ad539fafdde19ec5b59cd7d8581038ed2d342f45faaf50118a",
+            "MD5": "7412bf5b0f25598beb17ef3a1893463f",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1558068000000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "2.23",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/gfvv33ew.txt",
+            "Size": "16 KB",
+            "SHA1": "1a2e1bc2e21ba9a01cc78601c27ebc8dd8c79dbc",
+            "SHA256": "4ed5c63c3ff32f31c26525010f7e4fccd866d706d78d144adafd27b56c5c47e2",
+            "MD5": "cf95c0a8a6b10a50a00cff1fa18b45ac",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1558068000000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS031944-AUTO-SCROLL-UTILITY-FOR-WINDOWS-10-32-BIT-64-BIT-LAPTOP",
+          "DS031944",
+          "62E467DC-A3BD-41F4-AE9A-A0BA59F10FB3"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "2.23"
+        },
+        "DocId": "DS031944",
+        "Title": "Auto Scroll Utility for Windows 10  (32-bit, 64-bit) - Laptop",
+        "Date": {
+          "Unix": 1558067700000
+        },
+        "Hit": "288172",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Auto Scroll Utility for Windows 10  (32-bit, 64-bit) - Laptop",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1583397732000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Software and Utilities",
+          "Classify": "dl-category-software",
+          "ID": "156BE23F-B536-4320-B35C-2F67EBDD9242"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "DOS",
+          "EFI Shell"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "2.00",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/83fd05ww.txt",
+            "Size": "17.4 KB",
+            "SHA1": "0439455231ba508848ac9221ffcaa531e43f15a4",
+            "SHA256": "e505d070883c0b076b2d878a1d7fbc87810adff5486780b0390e0621da84928a",
+            "MD5": "2ecadccd525abe995421ba11308be239",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1568852220000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "ThinkPad Drive Erase Utility for the Resetting the Cryptographic Key and the Erasing the Solid State Drive (Bootable CD)",
+            "TypeString": "ISO",
+            "Version": "2.00",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/83fd05ww.iso",
+            "Size": "228.4 MB",
+            "SHA1": "3889ad0c279bada52e30c2b2706750a337666f3e",
+            "SHA256": "e56b776316b9a236691fc44ff11606b01a070dafe714860226e6565bbc8fac35",
+            "MD5": "fac5be18fe1e1ee07c682eb9149a1531",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1568852340000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "ThinkPad Drive Erase Utility for the Resetting the Cryptographic Key and the Erasing the Solid State Drive (Floppy)",
+            "TypeString": "zip",
+            "Version": "2.00",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/83fd05ww.zip",
+            "Size": "77.4 KB",
+            "SHA1": "70a1a579aae8877073aa71db6963693585906fe0",
+            "SHA256": "118a57b52f77975c847f2ca64766dd3822dae972220f3b9b24b774817e28338d",
+            "MD5": "4b815a975c952e63751dc6b83fc83c31",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1568852340000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS019026-THINKPAD-DRIVE-ERASE-UTILITY-FOR-RESETTING-THE-CRYPTOGRAPHIC-KEY-AND-ERASING-THE-SOLID-STATE-DRIVE-THINKPAD",
+          "DS019026",
+          "56178729-D84C-476A-BAB0-F7575A5C1316",
+          "SYD0-02B6E22"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "2.00"
+        },
+        "DocId": "DS019026",
+        "Title": "ThinkPad Drive Erase Utility for Resetting the Cryptographic Key and Erasing the Solid State Drive - ThinkPad",
+        "Date": {
+          "Unix": 1568823240000
+        },
+        "Hit": "232842",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Drive Erase Utility for the Resetting the Cryptographic Key and the Erasing the Solid State Drive for DOS",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1615229806000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Storage",
+          "Classify": "dl-category-storage",
+          "ID": "F3491C79-0A9D-4DD8-A593-A73FE52CA54C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 7 (32-bit)",
+          "Windows 7 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Patch to support Firefox for Client Security Solution 8.3",
+            "TypeString": "EXE",
+            "Version": "1.1",
+            "URL": "https://download.lenovo.com/ibmdl/pub/pc/pccbbs/thinkvantage_en/css_firefox_patch_83_20110831.exe",
+            "Size": "939 KB",
+            "SHA1": "05fe84154aa0d7c1845639a451b91bfafa52d566",
+            "SHA256": "6e8e551948fb2c77225dd5c5c32abf170ab80142d7aa5354edb4837ac001fc64",
+            "MD5": "0379440b231002bba96e0f4e7e129e74",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1315180800000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README for Patch to support Firefox for Client Security Solution 8.3",
+            "TypeString": "TXT README",
+            "Version": "1.1",
+            "URL": "https://download.lenovo.com/ibmdl/pub/pc/pccbbs/thinkvantage_en/css_firefox_patch_83_20110831.txt",
+            "Size": "8 KB",
+            "SHA1": "d78dd395e9898b3d541af3074dadcab33f5398a0",
+            "SHA256": "65009a7e04e29fd10d1667a464d95d178676f781fa71c12cda3107f1c4d598ea",
+            "MD5": "da94147c56ba51736edbf8b0f9110951",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1315180800000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS014086-PATCH-TO-SUPPORT-MOZILLA-FIREFOX-WEB-BROWSER-FOR-CLIENT-SECURITY-SOLUTION-83-WINDOWS-7-32-BIT-64-BIT",
+          "DS014086",
+          "E4532715-F6F2-4D77-9066-DC49926FDDA5",
+          "MIGR-77138"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.1"
+        },
+        "DocId": "DS014086",
+        "Title": "Patch to support Mozilla Firefox Web browser for Client Security Solution 8.3 - Windows 7 (32-bit, 64-bit)",
+        "Date": {
+          "Unix": 1294099200000
+        },
+        "Hit": "228813",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Patch to support Mozilla Firefox 4.0 and 5.0 Web browser for Client Security Solution 8.3 - Windows 7 (32-bit, 64-bit)",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1583397729000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "ThinkVantage Technology",
+          "Classify": "dl-category-thinkvantage",
+          "ID": "8FA7E883-9036-4E57-A106-3C9FA89F1490"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (32-bit)",
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)",
+          "Windows 7 (32-bit)",
+          "Windows 7 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Migration Assistant",
+            "TypeString": "EXE",
+            "Version": "2.1.4.6",
+            "URL": "https://download.lenovo.com/pccbbs/desktop/lma2146.exe",
+            "Size": "49.3 MB",
+            "SHA1": "dd090c6a43bd7ea24d20ad91bf55b8078e155d0a",
+            "SHA256": "9336bd6953a4e3b500fbf0e1e219467c6768ee48b39f580add25f6fde467393b",
+            "MD5": "cf32aee027684159983f10ce6801234e",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1646790540000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "2.1.4.6",
+            "URL": "https://download.lenovo.com/pccbbs/desktop/lma2146.txt",
+            "Size": "4.29 KB",
+            "SHA1": "2234bed48c34292a9d804f1c4948ffa1a3b3a6eb",
+            "SHA256": "ae5f060e2fc93dc9aeb440774471444f2f4693cedacbd087debd9feafc81618e",
+            "MD5": "bb27f03fe492629238d14bb9fd497b90",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1646790600000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS502567-LENOVO-MIGRATION-ASSISTANT-FOR-WINDOWS-10-7-32-BIT-64-BIT-LAPTOPS-DESKTOPS-WORKSTATIONS",
+          "DS502567",
+          "7B5D113E-FCD0-4A22-8FC7-B82299735916"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "2.1.4.6"
+        },
+        "DocId": "DS502567",
+        "Title": "Lenovo Migration Assistant for Windows 11, 10, 7 (32-bit, 64-bit) - Laptops, Desktops, Workstations",
+        "Date": {
+          "Unix": 1647309120000
+        },
+        "Hit": "218067",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package updates the Lenovo Migration Assistant to fix problems, add new functions, or expand functions.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1647310559000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Lenovo Migration Assistant for Windows 11, 10, 7 (32-bit, 64-bit) - Laptops, Desktops, Workstations",
+        "Category": {
+          "Name": "Software and Utilities",
+          "Classify": "dl-category-software",
+          "ID": "156BE23F-B536-4320-B35C-2F67EBDD9242"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 7 (32-bit)",
+          "Windows 7 (64-bit)",
+          "Windows 8 (64-bit)",
+          "Windows 8.1 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Windows Utility To Read and Write Asset ID Information",
+            "TypeString": "EXE",
+            "Version": "1.02",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/giaw03ww.exe",
+            "Size": "475 KB",
+            "SHA1": "51d07af4e76a170b8239ead5e5d42045ea4ba7b5",
+            "SHA256": "71bb404d5df053e660062acbb86c4ca6dbc09f96e2b4c03841bd57079ccd1c5d",
+            "MD5": "6df401c424ca43d7fc71a48fb0905c93",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1420502400000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README for Utility To Read and Write Asset ID Information",
+            "TypeString": "TXT README",
+            "Version": "1.02",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/giaw03ww.txt",
+            "Size": "27.02 KB",
+            "SHA1": "3cbc1a079965ee713d513ef25e981ceb70ba8029",
+            "SHA256": "54dc566a9d7d75ba26bdd393544b2e862d132b542eace92dfaa667bac5f4784e",
+            "MD5": "0f017bdbd0a37b1d0aa47e1ea9cb6d5f",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1420502400000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS039503-WINDOWS-UTILITY-TO-READ-AND-WRITE-ASSET-ID-INFORMATION-FOR-WINDOW-10-64-BIT-81-64-BIT-8-64-BIT-7-32-BIT-64-BIT-THINKPAD",
+          "DS039503",
+          "9AF86C0A-BF6E-4EE2-A57E-5D12F46F85A5"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.02"
+        },
+        "DocId": "DS039503",
+        "Title": "Windows Utility To Read and Write Asset ID Information for Window 10 (64-bit), 8.1 (64-bit), 8 (64-bit), 7 (32-bit, 64-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1456185600000
+        },
+        "Hit": "192740",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "The utilities running on Windows to read out and store an asset ID data from ThinkPad is to provide query and set feature of an asset ID and other information. To use this utility, you need logon to the Windows with administrative privileges.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1648188296000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Windows Utility To Read and Write Asset ID Information for Window 10 (64-bit), 8.1 (64-bit), 8 (64-bit), 7 (32-bit, 64-bit) - ThinkPad",
+        "Category": {
+          "Name": "Enterprise Management",
+          "Classify": "dl-category-enterprise",
+          "ID": "4A3CC709-438F-487D-8739-4104CE73D368"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Hotkey Features Integration",
+            "TypeString": "EXE",
+            "Version": "9.2.0.5",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0yvu37w.exe",
+            "Size": "13.99 MB",
+            "SHA1": "183b2142c9fcc05d4e18d9ba91700f3c35cd7b9e",
+            "SHA256": "1771f0b3b3b852be02953784c141e33409c22389959f8cda2a1f191c8d21d0cd",
+            "MD5": "049c11c3227103fc1a8f13307d1766f7",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1649080620000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "9.2.0.5",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0yvu37w.txt",
+            "Size": "100.35 KB",
+            "SHA1": "42da2774ff3a08226a38dcff45407c5a7edb6f5f",
+            "SHA256": "e0fe534926decac2d8c65cc8d0eb13990e099923a3ddab757e26a3b58ddf9e04",
+            "MD5": "706e085ef3c775a2e177338aa713d65d",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1649080680000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS120449-HOTKEY-FEATURES-INTEGRATION-FOR-WINDOWS-10-64-BIT-THINKPAD",
+          "DS120449",
+          "67547E54-4C4A-47E7-8702-21168D421114"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "9.2.0.5"
+        },
+        "DocId": "DS120449",
+        "Title": "Hotkey Features Integration (Version 9) for Windows 11, 10 (64-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1649030400000
+        },
+        "Hit": "155777",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This software enables F1-F12 special keys and buttons on your computer.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1649686594000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Hotkey Features Integration (Version 9) for Windows 11, 10 (64-bit) - ThinkPad",
+        "Category": {
+          "Name": "Software and Utilities",
+          "Classify": "dl-category-software",
+          "ID": "156BE23F-B536-4320-B35C-2F67EBDD9242"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "NVMe Solid State Drive Firmware Update Utility",
+            "TypeString": "EXE",
+            "Version": "55",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/fwnva55.exe",
+            "Size": "81.92 MB",
+            "SHA1": "53f7ddd9636431cd1bb57d4338636ffd03fe37ca",
+            "SHA256": "e9366e1eeee38a4f90eb8a8bb79fb41f9ab44cc08d9ab6bbf204a3a2d5e99841",
+            "MD5": "9e880828fa509501ff97eff1f792f11a",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1654611840000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "55",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/fwnva55.txt",
+            "Size": "40.55 KB",
+            "SHA1": "cb04286b581c6eaf6c7da382854032133836aa21",
+            "SHA256": "60749c0c862a1b30c83d5e3edd59c6e8fba5c49ab2a25beda9fed8d28682bb11",
+            "MD5": "d0dfead57ed0ac8d1a2b9dafd43a7065",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1654611840000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS119265-NVME-SOLID-STATE-DRIVE-FIRMWARE-UPDATE-UTILITY-FOR-WINDOWS-10-64-BIT-THINKPAD",
+          "DS119265",
+          "DD3DC62B-C96C-4CCD-8596-3FE61C16D6E3"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "55"
+        },
+        "DocId": "DS119265",
+        "Title": "NVMe Solid State Drive Firmware Update Utility for Windows 11, 10 (64-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1654560000000
+        },
+        "Hit": "154859",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "NVMe Solid State Drive Firmware.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1654850422000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "NVMe Solid State Drive Firmware Update Utility for Windows 11, 10 (64-bit) - ThinkPad",
+        "Category": {
+          "Name": "Storage",
+          "Classify": "dl-category-storage",
+          "ID": "F3491C79-0A9D-4DD8-A593-A73FE52CA54C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 7 (32-bit)",
+          "Windows 7 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Message Center Plus Uninstaller",
+            "TypeString": "EXE",
+            "Version": "1.1.0.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/mcpuninstaller11.exe",
+            "Size": "313.5 KB",
+            "SHA1": "d1910d6923b500bbee5485f0df8a6a6355026b2a",
+            "SHA256": "50ee3a51327c2526c7d9188dec99094b374c8af4d5611ec155d409a15da020d1",
+            "MD5": "d3dd8fdc55c368a48579fd5cd4251201",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1499385600000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README for Lenovo Message Center Plus Uninstaller",
+            "TypeString": "TXT README",
+            "Version": "1.1.0.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/mcpuninstaller11.txt",
+            "Size": "3.1 KB",
+            "SHA1": "26e212585a119a9b155a4fb55d6011e4c153c943",
+            "SHA256": "630389b0412ce1298d20b9e648dea8011f36f5cc3ac9665391967eb969d5366c",
+            "MD5": "46abd3f87ecb938f7954b12a747164ef",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1499385600000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS122216-LENOVO-MESSAGE-CENTER-PLUS-UNINSTALLER-THINKPAD-AND-THINKCENTRE-SYSTEMS",
+          "DS122216",
+          "9B282A06-B1D4-4B29-87D2-E684CA837DE1"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.1.0.0"
+        },
+        "DocId": "DS122216",
+        "Title": "Lenovo Message Center Plus Uninstaller - ThinkPad and ThinkCentre Systems",
+        "Date": {
+          "Unix": 1499385600000
+        },
+        "Hit": "102987",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Lenovo Message Center Plus Uninstaller - ThinkPad and ThinkCentre Systems",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1513235503000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Software and Utilities",
+          "Classify": "dl-category-software",
+          "ID": "156BE23F-B536-4320-B35C-2F67EBDD9242"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Generic DisplayLink Driver",
+            "TypeString": "EXE",
+            "Version": "V10.1.2875.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/dislink1012875.exe",
+            "Size": "51.61 MB",
+            "SHA1": "c050a908a0f08188a1da56bca3e38b0c44b435c7",
+            "SHA256": "015387c7e5384b96cba4e82312458c6b752b79ed2e2c8a547b4843ee7a1b8b76",
+            "MD5": "bb2ea154adff9eaa44b98419d3ef1d29",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1644905280000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Generic DisplayLink Driver README",
+            "TypeString": "TXT README",
+            "Version": "V10.1.2875.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/dislink1012875.txt",
+            "Size": "8.12 KB",
+            "SHA1": "5a439e849859f85a1b0787f8ddd5cd7f0a663baf",
+            "SHA256": "41c560121d25a4ded59dec2eeb816da06d79a782f4d821b8e64864cb7a316a6e",
+            "MD5": "0ed84392f7f3330611ef4c19120f51e6",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1651151640000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501908-THINKPAD-USB-30-BASICULTRAPRO-DOCK-DRIVER-FOR-WINDOWS-10-81-8-7-32-BIT-64-BIT",
+          "DS501908",
+          "DEF19866-CB81-4F91-BA63-A6C23A0FC12F"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "V10.1.2875.0"
+        },
+        "DocId": "DS501908",
+        "Title": "Generic DisplayLink Driver for USB Docks and Adapter for Windows 10, 11 (64-bit)",
+        "Date": {
+          "Unix": 1644883200000
+        },
+        "Hit": "37310",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Generic DisplayLink Driver for USB Docks and Adapter for Windows 10, 11 (64-bit)",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1652924345000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Generic DisplayLink Driver for USB Docks and Adapter for Windows 10, 11 (64-bit)",
+        "Category": {
+          "Name": "Software and Utilities",
+          "Classify": "dl-category-software",
+          "ID": "156BE23F-B536-4320-B35C-2F67EBDD9242"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Power Management Driver",
+            "TypeString": "EXE",
+            "Version": "v.1.68.30.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n3aku10w.exe",
+            "Size": "1.39 MB",
+            "SHA1": "83f98589bfc8699bc6cace188d04f93a0c08081d",
+            "SHA256": "dbf849d33b2f587e9163378e7116ffbca6d882b9e7225f2c4ce9e6dbf301466c",
+            "MD5": "476598c7b533d711a48de6640ff74021",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1655091960000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "v.1.68.30.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n3aku10w.txt",
+            "Size": "58.52 KB",
+            "SHA1": "1a920b2d8d826989d5aa3bbba63b59bb8ac6e972",
+            "SHA256": "aaf0d05a9b2a92c122679a804acf38a207625ced8fdcf57844ad48865132cb8e",
+            "MD5": "4eac01b7cd699e1c491c05e4b284c8ec",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1655092080000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS539633-LENOVO-POWER-MANAGEMENT-DRIVER-FOR-WINDOWS-10-32-BIT-64-BIT-THINKPAD",
+          "DS539633",
+          "7B8FDFC0-64DC-11E9-B418-9BE863D40AE8"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "v.1.68.30.0"
+        },
+        "DocId": "DS539633",
+        "Title": "Lenovo Power Management Driver for Windows 11 (Version 21H2 or later), 10 (64-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1655092860000
+        },
+        "Hit": "32336",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Lenovo Power Management Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1655374597000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Lenovo Power Management Driver for Windows 11 (Version 21H2 or later), 10 (64-bit) - ThinkPad",
+        "Category": {
+          "Name": "Power Management",
+          "Classify": "dl-category-powermgmt",
+          "ID": "E1B533C3-16CA-4FBE-8BD8-FB5D7A57F431"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (32-bit)",
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Smart Display",
+            "TypeString": "",
+            "Version": "1.0.0.10",
+            "URL": "https://download.lenovo.com/consumer/mobiles/MSStoreSmartDisplays.msixbundle",
+            "Size": "126.44 MB",
+            "SHA1": "9c10e20a00ee4695d5c39905e3c17eeadc34714a",
+            "SHA256": "31c418a654b9b9804edbd457376203915ca5b9d50fd50b6c365f16e2c51cb0bb",
+            "MD5": "bc49106a0eb551854bbaec4e190321cb",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1617889080000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS549312-LENOVO-SMART-DISPLAY-APPLICATIONS-FOR-WINDOWS-10-32-BIT-64-BIT-DESKTOP-NOTEBOOK",
+          "DS549312",
+          "DE6DEF70-9067-11EB-9871-975C3083B901"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.0.0.10"
+        },
+        "DocId": "DS549312",
+        "Title": "Lenovo Smart Display Applications for Windows 10 (32-bit, 64-bit) - Desktop, Notebook",
+        "Date": {
+          "Unix": 1617889320000
+        },
+        "Hit": "29285",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Smart display is new PC app that allows users to easily manage the layout of various Windows applications residing in various displays. ",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1617889348000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "0",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Software and Utilities",
+          "Classify": "dl-category-software",
+          "ID": "156BE23F-B536-4320-B35C-2F67EBDD9242"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (32-bit)",
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Power and Battery Driver",
+            "TypeString": "EXE",
+            "Version": "10.0.145.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n1fup96w.exe",
+            "Size": "3.95 MB",
+            "SHA1": "b7a0235bbb57aa4083ec0cf24a88977886933b09",
+            "SHA256": "952ff8afe29cc9ed38bd0e2d6756a890c379b7df0c6fe01c2fd1195d767ff0c6",
+            "MD5": "6f81c8b7c04cd66b679b9c80c844dbef",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1652842740000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "10.0.145.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n1fup96w.txt",
+            "Size": "41.19 KB",
+            "SHA1": "d6c870819ed95138f6d9cf5e9fd80df4127d5e49",
+            "SHA256": "482c9c5c6541557e138642974bf92cb1ce22a5d582c9498b9ce650e36d5bb15f",
+            "MD5": "40603e2b2e2be1976751f1db89fa4702",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1652842740000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS541411-LENOVO-SETTINGS-POWER-MANAGER-FOR-WINDOWS-10-VERSION-1703-OR-LATER-THINKPAD",
+          "DS541411",
+          "102B22F0-D38E-11E9-9EC2-25BB1C53E3DE"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "10.0.145.0"
+        },
+        "DocId": "DS541411",
+        "Title": "Lenovo Power and Battery Driver for Windows 11 (Version 21H2 or later), 10 (Version 1703 or Later) - ThinkPad",
+        "Date": {
+          "Unix": 1652832000000
+        },
+        "Hit": "25914",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "formerly known as Lenovo Power Manager Driver",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1655361828000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "0",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Lenovo Power and Battery Driver for Windows 11 (Version 21H2 or later), 10 (Version 1703 or Later) - ThinkPad",
+        "Category": {
+          "Name": "Power Management",
+          "Classify": "dl-category-powermgmt",
+          "ID": "E1B533C3-16CA-4FBE-8BD8-FB5D7A57F431"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel Management Engine Interface",
+            "TypeString": "EXE",
+            "Version": "2141.15.0.2511",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0dme17w.exe",
+            "Size": "190.18 MB",
+            "SHA1": "9becb20c07876b34e3ef39ccb2189da608adb68d",
+            "SHA256": "7b0c37676306818e7cf14c8b392c8c549d926a9c20839fe81402b3b13bd0360d",
+            "MD5": "c4b49c042c87134c9d5d7ceebfa2e1fd",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1646038080000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "2141.15.0.2511",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0dme17w.txt",
+            "Size": "9.42 KB",
+            "SHA1": "f7b6d1311ecce1216f7dc97edb86320a47a198a8",
+            "SHA256": "45447ac55675b456056377e135deae4415fcb1009f4f0297a61989e165e60d78",
+            "MD5": "0f8df03a12201ebccbe86862019840f8",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1646038080000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS119135-INTEL-MANAGEMENT-ENGINE-INTERFACE-FOR-WINDOWS-10-64-BIT-THINKPAD",
+          "DS119135",
+          "E11B5F2B-22B2-4D54-9649-717F379A360F"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "2141.15.0.2511"
+        },
+        "DocId": "DS119135",
+        "Title": "Intel Management Engine Interface for Windows 10 (64-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1646966100000
+        },
+        "Hit": "22850",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package installs the Intel Management Engine Interface",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1646966135000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel Management Engine Interface for Windows 10 (64-bit) - ThinkPad",
+        "Category": {
+          "Name": "Motherboard Devices (core chipset, onboard video, PCIe switches)",
+          "Classify": "dl-category-chipset",
+          "ID": "FB762CAD-DE8B-49C2-A04B-809B4958F608"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "BIOS Update Utility",
+            "TypeString": "EXE",
+            "Version": "1.47",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0puj35w.exe",
+            "Size": "10.71 MB",
+            "SHA1": "607e7ae807fa3aaa7134e428a691e52e8dbfc778",
+            "SHA256": "bd710cf83ce650f881954fd1e0747c2192f24431c178a055744ccebed03529fe",
+            "MD5": "86e631cd3a16ad99c806bf9da2be8375",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1650011520000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "BIOS Update (Bootable CD)",
+            "TypeString": "ISO",
+            "Version": "1.47",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0puj35wd.iso",
+            "Size": "41.36 MB",
+            "SHA1": "56c5489e0b4f60b410a3eafe640f3738b925d1ef",
+            "SHA256": "3e9129ea34484f94a167b902bcfbf78e31ccb3575ed649f3309d41bdfcc9eb8a",
+            "MD5": "f3db2f8c24d261f1cacd200b145c73f4",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1650011700000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README (Bootable CD)",
+            "TypeString": "TXT README",
+            "Version": "1.47",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0puj35wd.txt",
+            "Size": "25.39 KB",
+            "SHA1": "0c1f3e06cf2354081b8106b338b4d8edeccc03f4",
+            "SHA256": "197f99fafca15b648b362bca8068cbcb721f42ebdac38b1c93620c49eed3a643",
+            "MD5": "2da799651e5368419a7b19f434c1cac4",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1650011760000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README (BIOS Update Utility)",
+            "TypeString": "TXT README",
+            "Version": "1.47",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0puj35w.txt",
+            "Size": "24.3 KB",
+            "SHA1": "7d81e23c7326c596ddc89b598e570ee28a0e2fda",
+            "SHA256": "73ba0016fd1af72ed601739e0008621b4f800ca7aa2577590eea8f9509712aea",
+            "MD5": "87150a7b3b47154740117509eb62db55",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1650011640000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501843-BIOS-UPDATE-UTILITY-BOOTABLE-CD-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580",
+          "DS501843",
+          "E84EFEA8-C7E6-44FF-BB30-FADB2887AC7A"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.47"
+        },
+        "DocId": "DS501843",
+        "Title": "BIOS Update (Utility & Bootable CD) for Windows 11, 10 (64-bit) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1649980800000
+        },
+        "Hit": "20294",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package updates the UEFI BIOS.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1650512198000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "BIOS Update (Utility & Bootable CD) for Windows 11, 10 (64-bit) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "BIOS/UEFI",
+          "Classify": "dl-category-bios",
+          "ID": "5AC6A815-321D-440E-8833-B07A93E0428C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Solid State Drive and Hard Disk Drive Firmware Update Utility",
+            "TypeString": "zip",
+            "Version": "FWSA14W",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/fwsa14w.zip",
+            "Size": "80.3 MB",
+            "SHA1": "0ffcb5f44798abf990e0ac877028ec1f802d1a31",
+            "SHA256": "e6e017f904675737d38a843fc65458c1d8ff252ec71bf9a302bbcf31c0962024",
+            "MD5": "1c9d9c4ea247103560c858dc7035ed9c",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1604484180000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "FWSA14W",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/fwsa14w.txt",
+            "Size": "12.92 KB",
+            "SHA1": "d5479a02b219a1f0d692097a74ee970db7fade9c",
+            "SHA256": "1da960b7a6f1958ba0eeef47a88d06eff852bfcbdf9dc645edaa799643eca96d",
+            "MD5": "97839e1bbe0f9d4ba5f9af957e6a98f1",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1604484180000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS539234-SOLID-STATE-DRIVE-AND-HARD-DISK-DRIVE-FIRMWARE-UPDATE-UTILITY-FOR-WINDOWS-10-7-64-BIT-7-32-BIT-THINKPAD",
+          "DS539234",
+          "0FF67630-59AF-11E9-BF2A-B7F4F86A724A"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "FWSA14W"
+        },
+        "DocId": "DS539234",
+        "Title": "Solid State Drive and Hard Disk Drive Firmware Update Utility for Windows 10 - ThinkPad",
+        "Date": {
+          "Unix": 1604448000000
+        },
+        "Hit": "20262",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This utility will examine your system configuration and detect all Solid State Drives installed. ",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1654222834000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Solid State Drive and Hard Disk Drive Firmware Update Utility for Windows 10 - ThinkPad",
+        "Category": {
+          "Name": "Storage",
+          "Classify": "dl-category-storage",
+          "ID": "F3491C79-0A9D-4DD8-A593-A73FE52CA54C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 7 (32-bit)",
+          "Windows 7 (64-bit)",
+          "Windows 8 (32-bit)",
+          "Windows 8 (64-bit)",
+          "Windows 8.1 (32-bit)",
+          "Windows 8.1 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "1.67.16.42",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2hku07w.txt",
+            "Size": "41.8 KB",
+            "SHA1": "bc27228e1bba46745f5cab9f034dede7884a6e9e",
+            "SHA256": "370c368ead5b8cae310c6a9afb3c860c1489bb046c198cac80ccf39e2fcc4edb",
+            "MD5": "33eb9a665905edd2ee320d66d4f62144",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1576482720000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Power Management Driver (64-bit)",
+            "TypeString": "EXE",
+            "Version": "1.67.16.42",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2hku07w_x64.exe",
+            "Size": "2 MB",
+            "SHA1": "28b10157a4130172e3b70afd464a4a756b8aecdd",
+            "SHA256": "d341ea61f07d8c77a50a4165ebe02a9f5bcf4d4e2143475c199d885284c2dbb3",
+            "MD5": "c2d5c7b19919184e4930b3779017f9fd",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1576482840000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Power Management Driver (32-bit)",
+            "TypeString": "EXE",
+            "Version": "1.67.16.42",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2hku07w_x86.exe",
+            "Size": "2 MB",
+            "SHA1": "d375e26d3b3290c90cae8a786f1a7c125dbaa2d0",
+            "SHA256": "8fa675656a50f06197ae8a29ff36b4dd4ca3f8c564ce3e91a0938259463eb8a0",
+            "MD5": "88a63ea8905a313831227b049360d900",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1576482780000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS505267-LENOVO-POWER-MANAGEMENT-DRIVER-FOR-WINDOWS-81-8-7-32-BIT-64-BIT-THINKPAD",
+          "DS505267",
+          "B7915870-CAD9-11E8-82A9-8BFCFF02222E"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.67.16.42"
+        },
+        "DocId": "DS505267",
+        "Title": "Lenovo Power Management Driver for Windows 8.1, 8, 7 (32-bit, 64-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1576454400000
+        },
+        "Hit": "19131",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install Lenovo Power Management Driver for Windows 8.1, 8, 7 (32-bit, 64-bit)",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1577753703000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Power Management",
+          "Classify": "dl-category-powermgmt",
+          "ID": "E1B533C3-16CA-4FBE-8BD8-FB5D7A57F431"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "SCCM Package",
+            "TypeString": "EXE",
+            "Version": "14",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_e480_e580_r480_w1064_w11_21_202201.exe",
+            "Size": "595.22 MB",
+            "SHA1": "1af38dae692c423b4bd79ac45f205312f59d8855",
+            "SHA256": "5ed7b599f0c000f265167384a62c6b1faa7440e944e042b401e6f2dc2184ae24",
+            "MD5": "f87e383423ccc8c9bea55b408243eb1b",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1647820980000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "14",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_e480_e580_r480_w1064_w11_21_202201.txt",
+            "Size": "20.96 KB",
+            "SHA1": "b64ea07f95b725a72193c6946c9eccf49e0304f1",
+            "SHA256": "63c6aadaa1d3d6cd99d06f64054f060f3cfd5e19bdcdb4052c803a83813d4147",
+            "MD5": "5610e9ff8b7ebbe6a8dcb18e690ab0e1",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1647821040000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501931-SCCM-PACKAGE-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580",
+          "DS501931",
+          "9C299FA1-E4AB-4305-A001-35C6FE0EA526"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "14"
+        },
+        "DocId": "DS501931",
+        "Title": "SCCM Package for Windows 11, 10 (Version 1709, 1803, 1809, 1903, 1909, 2004, 20H2, 21H1, 21H2) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1647820920000
+        },
+        "Hit": "18527",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the SCCM Package ",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1647821071000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "SCCM Package for Windows 11, 10 (Version 1709, 1803, 1809, 1903, 1909, 2004, 20H2, 21H1, 21H2) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Enterprise Management",
+          "Classify": "dl-category-enterprise",
+          "ID": "4A3CC709-438F-487D-8739-4104CE73D368"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Driver Rollback Tool for Intel NVMe SSD",
+            "TypeString": "EXE",
+            "Version": "1.0.0.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/nzxms01w.exe",
+            "Size": "378 KB",
+            "SHA1": "2a3086c635108f5bcd15c2563086fdc914450b90",
+            "SHA256": "cd6f6ab75fc3b1d7b768f642d91504c6c994588c8487317f534db116a5a77b99",
+            "MD5": "7cff6cc973b8f194b2f77f8b92745575",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1553668560000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "ReadMe",
+            "TypeString": "TXT README",
+            "Version": "1.0.0.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/nzxms01w.txt",
+            "Size": "5.86 KB",
+            "SHA1": "e130da74e71409cf1f443b70291e9df3533feb03",
+            "SHA256": "c034df19ed0ae4a4c204d099cf92bcd470e1a24dd43bf474651e67e1e4fb960c",
+            "MD5": "b147ec28302ae8e1fd1f6c42ba75d005",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1553668620000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS539186-DRIVER-ROLLBACK-TOOL-FOR-INTEL-NVME-SSD-FOR-WINDOWS-10-64-BIT-THINKPAD",
+          "DS539186",
+          "F2C9E5A0-5059-11E9-A407-390CD4350881"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "1.0.0.0"
+        },
+        "DocId": "DS539186",
+        "Title": "Driver Rollback Tool for Intel NVMe SSD for Windows 10  64-bit - ThinkPad",
+        "Date": {
+          "Unix": 1553644800000
+        },
+        "Hit": "16523",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Driver Rollback Tool for Intel NVMe SSD for Windows 10  64-bit - ThinkPad",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1581919799000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Storage",
+          "Classify": "dl-category-storage",
+          "ID": "F3491C79-0A9D-4DD8-A593-A73FE52CA54C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "TrackPoint Firmware Update Utility",
+            "TypeString": "EXE",
+            "Version": "1.0.2.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n20g907w.exe",
+            "Size": "2.52 MB",
+            "SHA1": "cf7493801ad9d3471007c8e2b9350f0e8da96ed2",
+            "SHA256": "79770d929bd7a5dcc09844311a156682801d18033e5d58fd3262c20e46947bb0",
+            "MD5": "21a44df303cd413a24e0fe70eef51747",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1595315940000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "1.0.2.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n20g907w.txt",
+            "Size": "11.9 KB",
+            "SHA1": "92b079b2c50bbd3552701663199c8792eda7246a",
+            "SHA256": "6deafa3413e09bd8bef4f0685aba85b506614ff7a86cc72df2215aa021faca0c",
+            "MD5": "3d525a1001ff60118d5d7cfded0ad0b2",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1595316000000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS505655-TRACKPOINT-FIRMWARE-UPDATE-UTILITY-FOR-WINDOWS-10-64-BIT-THINKPAD",
+          "DS505655",
+          "F5BE2FF0-E23B-11E8-973E-B5C9FDA47B82"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "1.0.2.0"
+        },
+        "DocId": "DS505655",
+        "Title": "TrackPoint Firmware Update Utility for Windows 10 (64-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1595316060000
+        },
+        "Hit": "13347",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "TrackPoint Firmware Update Utility ",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1595316476000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Mouse, Touchpad, Keyboard and Pen",
+          "Classify": "dl-category-keyboard",
+          "ID": "39D5D4E5-00B9-4FAA-9E83-DB725143192A"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 7 (32-bit)",
+          "Windows 7 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "2.5 inch SATA Hard Drive Firmware Update Tool",
+            "TypeString": "zip",
+            "Version": "FWSHD10",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/fwshd10.zip",
+            "Size": "16 MB",
+            "SHA1": "03ec1b45e67bae84d3329b39993ea10de121d38c",
+            "SHA256": "a3c13ab738ee5081f3f9641b4ccdcfd8683332be3d38b01760b50b58b1420075",
+            "MD5": "0800908312181647bf5b702ee8d7342f",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1555909313000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "FWSHD10",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/fwshd10en.txt",
+            "Size": "7 KB",
+            "SHA1": "24a9c15df0a2eddf93d588ba77c9131b04aedef0",
+            "SHA256": "a114bcb011dd3ed39ae8fa9254484bba04cceea48982ca35e93f00e929173d3a",
+            "MD5": "30f769496858753489d1f08a3ec62781",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1555909313000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS539630-25-INCH-SATA-HARD-DRIVE-FIRMWARE-UPDATE-TOOL-FOR-WINDOWS-10-7-64-BIT-7-32-BIT-THINKPAD",
+          "DS539630",
+          "C3FF79C0-64BC-11E9-B6C9-93F71774C724"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "FWSHD10"
+        },
+        "DocId": "DS539630",
+        "Title": "2.5 inch SATA Hard Drive Firmware Update Tool for Windows 10, 7 (64-bit), 7 (32-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1555909313000
+        },
+        "Hit": "10488",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "2.5 inch SATA Hard Drive Firmware Update Tool for Windows 10, 7 (64-bit), 7 (32-bit) - ThinkPad",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1557472579000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Storage",
+          "Classify": "dl-category-storage",
+          "ID": "F3491C79-0A9D-4DD8-A593-A73FE52CA54C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 7 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Lenovo Audio Driver for Docks",
+            "TypeString": "EXE",
+            "Version": "1.31.38.54",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/u3aud04w.exe",
+            "Size": "1.56 MB",
+            "SHA1": "2c32500170e3ba498ea6da87a58927ec8d3e8999",
+            "SHA256": "b66a8bbe8f60b68623842df24b04ed3f693a740bab637818617684fe1a32f0b9",
+            "MD5": "3f97250e0672914bdfb6902de6c28d08",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1636724580000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Readme",
+            "TypeString": "TXT README",
+            "Version": "1.31.38.54",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/u3aud04w.txt",
+            "Size": "11.07 KB",
+            "SHA1": "c57781a24d0662fc86a8a5ab302fc7e0210b9f6e",
+            "SHA256": "81b2785c4355d14c7b5093537853211d56dac3b0b9962d51ed8e02817cc4e8b8",
+            "MD5": "9b5cd12af1640ccdee2d8c2790059abf",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1636724640000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS504663-TVSU-ONLY-GENERIC-CONEXANT-USB-AUDIO-DRIVER-FOR-DOCKS-AND-ADAPTERS-THINKPAD",
+          "DS504663",
+          "1E442514-7AAC-49E6-B408-32E19B368D3F"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.31.38.54"
+        },
+        "DocId": "DS504663",
+        "Title": "Lenovo Audio Driver for Docks",
+        "Date": {
+          "Unix": 1636724520000
+        },
+        "Hit": "7874",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Lenovo Audio Driver for Docks",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1639442932000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Lenovo Audio Driver for Docks",
+        "Category": {
+          "Name": "Audio",
+          "Classify": "dl-category-audio",
+          "ID": "3AA7F1C4-5B2A-453C-9CE2-B8FCDA8B69BA"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Fedora",
+          "Red Hat Enterprise Linux 8 (64-bit)",
+          "Ubuntu 18"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel SSD Firmware Updater",
+            "TypeString": "zip",
+            "Version": "ISFUL03",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/isful03.zip",
+            "Size": "10.26 MB",
+            "SHA1": "3e025305c14506ffaa3e07338c672ce247432169",
+            "SHA256": "a69b5dc773afe72c414976b62182b426089ad39b62752fe7d5438c136b906799",
+            "MD5": "3be63f197f57f46a210aca0fd048add5",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1644222720000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "ISFUL03",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/isful03.txt",
+            "Size": "5.88 KB",
+            "SHA1": "29561263e04f3784626e8265d2ce65a837832cfa",
+            "SHA256": "ca73e8777f1d8eec670fcdc7934ee900b8a016901547002e6876103f1d282512",
+            "MD5": "c435ae7b936aeb372a0e6cd83030b7bf",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1644222780000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS545014-INTEL-SSD-FIRMWARE-UPDATER-FOR-LINUX-OS-THINKPAD",
+          "DS545014",
+          "D2D911F0-B23A-11EA-88C8-5B45249CBEA5"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "ISFUL03"
+        },
+        "DocId": "DS545014",
+        "Title": "Intel SSD Firmware Updater for Linux OS - ThinkPad",
+        "Date": {
+          "Unix": 1644222660000
+        },
+        "Hit": "6988",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Intel SSD Firmware Updater for Linux OS - ThinkPad",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1644222803000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel SSD Firmware Updater for Linux OS - ThinkPad",
+        "Category": {
+          "Name": "Storage",
+          "Classify": "dl-category-storage",
+          "ID": "F3491C79-0A9D-4DD8-A593-A73FE52CA54C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Conexant Audio Driver",
+            "TypeString": "EXE",
+            "Version": "8.66.88.62",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pac12w.exe",
+            "Size": "89.19 MB",
+            "SHA1": "a120f7d93e1a905ae74aebabf28daeb91c007093",
+            "SHA256": "a1e585208fcee2ef7da5b47e9c83c021de2a988dd1adac766ae9dc05a484809d",
+            "MD5": "d2fa7ef8029c168bd0b3e0bec88cbd1e",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1648632300000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README for Conexant Audio Driver",
+            "TypeString": "TXT README",
+            "Version": "8.66.88.62",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pac12w.txt",
+            "Size": "7.32 KB",
+            "SHA1": "3cf23f178ab0cf58c0a0a7ea8d4797b267727b0f",
+            "SHA256": "3fb74a35298934b2a3497f0711731aada5e1cdaed4c870dff2f069bf9dc7ae3c",
+            "MD5": "aebeedec69a6a9d51a28c04ab3de0df4",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1648632360000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501810-CONEXANT-AUDIO-DRIVER-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580",
+          "DS501810",
+          "33CDD87E-EFAB-464C-8E38-D7C2E3D9A874"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "8.66.88.62"
+        },
+        "DocId": "DS501810",
+        "Title": "Conexant Audio Driver for Windows 11 (Version 21H2 or later), 10 (64-bit) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1648598400000
+        },
+        "Hit": "6552",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the Conexant Audio Driver ",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1649050805000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Conexant Audio Driver for Windows 11 (Version 21H2 or later), 10 (64-bit) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Audio",
+          "Classify": "dl-category-audio",
+          "ID": "3AA7F1C4-5B2A-453C-9CE2-B8FCDA8B69BA"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "AMD Video Driver",
+            "TypeString": "EXE",
+            "Version": "30.0.14030.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pav21w.exe",
+            "Size": "192.79 MB",
+            "SHA1": "dfa059840ed3a685e259a102afe980aa9c11b9d6",
+            "SHA256": "4acbc07cea75beb5749aef25cb8933635bc96db6ef43a47aaa4650b3975f678e",
+            "MD5": "5c0ed9e3f896d408467215e057c71310",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1646836380000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "30.0.14030.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pav21w.txt",
+            "Size": "9.18 KB",
+            "SHA1": "c8875142d80e2290eeb94053953fa9a329c7be39",
+            "SHA256": "1d8746d92bcb8562d0bfc3660790dcd6c2220cf4c346ae8c438abb3b18cec9c6",
+            "MD5": "ad896c865f8936dc8c393a10040c8ec8",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1646836380000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501819-AMD-VIDEO-DRIVER-FOR-WINDOWS-10-VERSION-1803-OR-LATER-THINKPAD-E480-E580",
+          "DS501819",
+          "38388D39-3D62-460C-8140-30980556E3B6"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "30.0.14030.0"
+        },
+        "DocId": "DS501819",
+        "Title": "AMD Video Driver for Windows 11 (Version 21H2 or later), 10 (Version 1803 or later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1646784000000
+        },
+        "Hit": "6206",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "AMD Video Driver for Windows.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1647479989000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "AMD Video Driver for Windows 11 (Version 21H2 or later), 10 (Version 1803 or later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Graphics Processing Units (GPU) and Server-AI Accelerators",
+          "Classify": "dl-category-video",
+          "ID": "635380F4-448F-4129-AA77-265289D96F6F"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Synaptics UltraNav Driver",
+            "TypeString": "EXE",
+            "Version": "19.3.4.229",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n23gz21w.exe",
+            "Size": "27.58 MB",
+            "SHA1": "bfe3ae67900ec479a271c26e61b7714427da9034",
+            "SHA256": "86e2373d58aef793d706cee58e9a1e2f6500f57b178c1469cfa33ccd8f28d491",
+            "MD5": "8618a1b8d5ef17c0b9d6fe5e1670f541",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1642999320000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "19.3.4.229",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n23gz21w.txt",
+            "Size": "11 KB",
+            "SHA1": "cbc1f7dc09f253ae208a0487cb334a69fce43a50",
+            "SHA256": "86aa7bc24146fe10ab204df1e3c13a460d10fdab134e43b729535eadc492bbc5",
+            "MD5": "65ea565dced950872fd4e86518fa6589",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1642999380000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS502229-SYNAPTICS-ULTRANAV-DRIVER-FOR-WINDOWS-10-64-BIT-THINKPAD",
+          "DS502229",
+          "D2A2574F-3956-41B7-A2F5-13DE1889D460"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "19.3.4.229"
+        },
+        "DocId": "DS502229",
+        "Title": "Synaptics UltraNav Driver for Windows 11 (Version 21H2 or later), 10 (Version 1607 or later) - ThinkPad",
+        "Date": {
+          "Unix": 1642999320000
+        },
+        "Hit": "4931",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package installs the Synaptics UltraNav Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1642999482000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Synaptics UltraNav Driver for Windows 11 (Version 21H2 or later), 10 (Version 1607 or later) - ThinkPad",
+        "Category": {
+          "Name": "Mouse, Touchpad, Keyboard and Pen",
+          "Classify": "dl-category-keyboard",
+          "ID": "39D5D4E5-00B9-4FAA-9E83-DB725143192A"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Integrated Camera Device Firmware 1M",
+            "TypeString": "EXE",
+            "Version": "Azurewave AM-6SF56A6-A: 2001 / Bison BNFH1NKSJ:5427 / Chicony CNFHH14:0030 / LuxVisions 7SF102N2:0025 / Azurewave AM-9SF5415:1909 / Bison BNFH19KSE:5613 / Chicony CNFJH72:2711 / LuxVisions 9SF126N3:0005",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2icu06w.exe",
+            "Size": "4.72 MB",
+            "SHA1": "21ee94ef914add47074858b9b923ae856d012416",
+            "SHA256": "3a1b58b8c44fda8800ed10d652f9981705b9e1a7f5e578a9e9a84e0f6623b953",
+            "MD5": "9ba1c2d7af545e495b6bca429cc6ecab",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1652942340000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "Azurewave AM-6SF56A6-A: 2001 / Bison BNFH1NKSJ:5427 / Chicony CNFHH14:0030 / LuxVisions 7SF102N2:0025 / Azurewave AM-9SF5415:1909 / Bison BNFH19KSE:5613 / Chicony CNFJH72:2711 / LuxVisions 9SF126N3:0005",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2icu06w.txt",
+            "Size": "10.62 KB",
+            "SHA1": "1d11c4e58e4b9c54ab2b894a50b15e24db6cbe0a",
+            "SHA256": "cd5ce59dcd8fc556edbba6b3871896b3d019267151370be71ba795c69c29cb38",
+            "MD5": "a896dd959ae9570db37404bdb5c3fd32",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1652942400000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS547761-INTEGRATED-CAMERA-DEVICE-FIRMWARE-1M-FOR-WINDOWS-10-64-BIT-THINKPAD",
+          "DS547761",
+          "8C97DC30-35D9-11EB-82BC-1FBEA69B26D2"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "Azurewave AM-6SF56A6-A: 2001 / Bison BNFH1NKSJ:5427 / Chicony CNFHH14:0030 / LuxVisions 7SF102N2:0025 / Azurewave AM-9SF5415:1909 / Bison BNFH19KSE:5613 / Chicony CNFJH72:2711 / LuxVisions 9SF126N3:0005"
+        },
+        "DocId": "DS547761",
+        "Title": "Integrated Camera Device Firmware 1M for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad",
+        "Date": {
+          "Unix": 1652942460000
+        },
+        "Hit": "4472",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the Integrated Camera Device Firmware 1M ",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1652942467000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Integrated Camera Device Firmware 1M for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad",
+        "Category": {
+          "Name": "Camera and Card Reader",
+          "Classify": "dl-category-camerareader",
+          "ID": "B7FF933A-6722-4635-9471-39DF68737A1D"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Integrated Camera Driver",
+            "TypeString": "EXE",
+            "Version": "5.0.18.82 (Sunplus)/ 10.0.19041.20178 (Realtek)/ 10.13.19041.4 (Sonix)",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2icm17w.exe",
+            "Size": "20.5 MB",
+            "SHA1": "1a3cb3e325329257c7035fd38000f14aab0a4f70",
+            "SHA256": "306d36b035563afece83c062e8ab9df72262568b2edea27ff014cb537ac0630c",
+            "MD5": "c1eabd5b09aa3c9ea066a8778381d47d",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1617955860000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "5.0.18.82 (Sunplus)/ 10.0.19041.20178 (Realtek)/ 10.13.19041.4 (Sonix)",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/n2icm17w.txt",
+            "Size": "12.62 KB",
+            "SHA1": "688d02bcb32b9d12fb42f970750e259bee8dd04a",
+            "SHA256": "86c9f45fb450cacc4554c4d401d6066b212595d9a2c64faf68a2acb8b635a0ff",
+            "MD5": "d39bf73c4b7528bbdcc826c82a1ea065",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1617955920000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS506557-INTEGRATED-CAMERA-DRIVER-FOR-WINDOWS-10-VERSION-1709-OR-LATER-THINKPAD",
+          "DS506557",
+          "1D355750-3FE0-11E9-9829-CFC03C65502B"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "5.0.18.82 (Sunplus)/ 10.0.19041.20178 (Realtek)/ 10.13.19041.4 (Sonix)"
+        },
+        "DocId": "DS506557",
+        "Title": "Integrated Camera Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad",
+        "Date": {
+          "Unix": 1617926400000
+        },
+        "Hit": "4172",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Install the software to enable the Integrated Camera, Integrated IR Camera device for ThinkPad",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1642132204000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Integrated Camera Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad",
+        "Category": {
+          "Name": "Camera and Card Reader",
+          "Classify": "dl-category-camerareader",
+          "ID": "B7FF933A-6722-4635-9471-39DF68737A1D"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 7 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "NVMe Solid State Drive Firmware Update Utility",
+            "TypeString": "zip",
+            "Version": "FWSN5201",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/fwsn5201.zip",
+            "Size": "13.3 MB",
+            "SHA1": "014d122f75643f7fb86682419e52b4d6edb25bc5",
+            "SHA256": "6b9e6ab0c35af4ca488bb2be6424216c5f848d55c0801381ecb1c59434955d18",
+            "MD5": "2503b4ba48c7a291249ee23494d1257d",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1565014540000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "FWSN5201",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/fwsn5201.txt",
+            "Size": "5.7 KB",
+            "SHA1": "e67ef1260627ecd811b8271c5557d5187c0d2036",
+            "SHA256": "66eecc1a675cd7a62886a81cf56274b3fc8e76eefa0782fc96af4335e3c1b5d2",
+            "MD5": "6370fa19eef58920489cea9de47c8073",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1565014540000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS540821-NVME-SOLID-STATE-DRIVE-FIRMWARE-UPDATE-UTILITY-FOR-WINDOWS-7-64-BIT-THINKPAD",
+          "DS540821",
+          "EB9D2680-B78C-11E9-8845-9DA5AEA9E6F8"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "FWSN5201"
+        },
+        "DocId": "DS540821",
+        "Title": "NVMe Solid State Drive Firmware Update Utility for Windows 7 (64-bit) - ThinkPad",
+        "Date": {
+          "Unix": 1565014540000
+        },
+        "Hit": "3434",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This utility will examine your system configuration and detect all NVMe Solid State Drives installed",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1581919799000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "2",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Storage",
+          "Classify": "dl-category-storage",
+          "ID": "F3491C79-0A9D-4DD8-A593-A73FE52CA54C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel HD Graphics Driver",
+            "TypeString": "EXE",
+            "Version": "27.20.100.9749",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0piv25w.exe",
+            "Size": "245.14 MB",
+            "SHA1": "ddf4f116348a02df0678e0ee026d3288cf3ff9ba",
+            "SHA256": "acee6835db3ee6ab1d329fd612130af5177cb482d85812ab71e8c2c61461f035",
+            "MD5": "a92c6eb282386aad2f1c5b82173787a9",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1635817440000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "27.20.100.9749",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0piv25w.txt",
+            "Size": "10.03 KB",
+            "SHA1": "2bf3d6e0c29e3dcf7fff60ec96080033b923cde6",
+            "SHA256": "1a011534f9b31073f17adfbb1ba3b3f1608b3f4986dc6586f691f5e80ed73d82",
+            "MD5": "605e0b62819df253c292463c5ad35f60",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1635817500000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501812-INTEL-HD-GRAPHICS-DRIVER-FOR-WINDOWS-10-VERSION-1607-1703-1709-AND-LATER-THINKPAD-E480-E580",
+          "DS501812",
+          "C23F912E-9560-43A3-AC50-F8DE37BA004A"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "27.20.100.9749"
+        },
+        "DocId": "DS501812",
+        "Title": "Intel HD Graphics Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 and later) - ThinkPad E480, E580, L480, L580",
+        "Date": {
+          "Unix": 1635811200000
+        },
+        "Hit": "3345",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package installs the software (Display driver)",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1636644864000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel HD Graphics Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 and later) - ThinkPad E480, E580, L480, L580",
+        "Category": {
+          "Name": "Graphics Processing Units (GPU) and Server-AI Accelerators",
+          "Classify": "dl-category-video",
+          "ID": "635380F4-448F-4129-AA77-265289D96F6F"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Qualcomm Atheros Wireless Driver",
+            "TypeString": "EXE",
+            "Version": "12.0.0.1159",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0paw06w.exe",
+            "Size": "2.84 MB",
+            "SHA1": "3a138eee00c412507313defaed9535d3c63868c5",
+            "SHA256": "d6b45f954b80ba9ada2627b580d252064f6326e05c4f5c0b9a02b2cb64588a92",
+            "MD5": "6d8608bbc41394bf452e64eef87fc0d6",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1638254520000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "12.0.0.1159",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0paw06w.txt",
+            "Size": "7.18 KB",
+            "SHA1": "0be5f60f889e004e54c551349065abc2304476ce",
+            "SHA256": "0de2d807284d40d6d5079538eb6f1be50e57cf9facb2617b3c1fc3eb50a8550e",
+            "MD5": "fd924016d78460409967eba57fc39aa4",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1638254520000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS502501-QUALCOMM-ATHEROS-WIRELESS-DRIVER-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580",
+          "DS502501",
+          "5C80033F-2016-4846-8C2D-8346F1C9DFF3"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "12.0.0.1159"
+        },
+        "DocId": "DS502501",
+        "Title": "Qualcomm Atheros Wireless Driver for Windows 11 (Version 21H2 or later) and 10 (1709 or later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1638230400000
+        },
+        "Hit": "2802",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package installs the software for Qualcomm Atheros Wireless LAN Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1638518439000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Qualcomm Atheros Wireless Driver for Windows 11 (Version 21H2 or later) and 10 (1709 or later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Networking: Wireless LAN",
+          "Classify": "dl-category-Wifi",
+          "ID": "E3519D23-890E-4DE1-9064-DE6E7DA2515B"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Realtek Wireless Driver",
+            "TypeString": "EXE",
+            "Version": "2024.0.8.133",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0prw18w.exe",
+            "Size": "3.79 MB",
+            "SHA1": "5dc6d44952ecee5f56e69cdf0d25066b01191f6a",
+            "SHA256": "e18044d6ad53df2bbfafe77bf0991878c1f14308675c9c8c0c518ba2a2dc778d",
+            "MD5": "cbe959357a772c4b2c66dfc8b9b8167d",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1639468920000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "2024.0.8.133",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0prw18w.txt",
+            "Size": "8.73 KB",
+            "SHA1": "450e828121c81835fa6fa8d0d24270216772703f",
+            "SHA256": "be119335e8d8a2ad076f50bfb878f8ee45e13ecaafae45ae8f670a3cacce4a87",
+            "MD5": "8cf4f1fcb6226a054cb3c83a88da4f40",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1639468980000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501823-REALTEK-WIRELESS-DRIVER-FOR-WINDOWS-10-64-BIT-1709-OR-LATER-THINKPAD-E480-E580",
+          "DS501823",
+          "E8A21ABE-51CB-47A0-8A7F-3F858E742756"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "2024.0.8.133"
+        },
+        "DocId": "DS501823",
+        "Title": "Realtek Wireless Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1639440000000
+        },
+        "Hit": "2747",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the Realtek Wireless Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1639712590000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Realtek Wireless Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Networking: Wireless LAN",
+          "Classify": "dl-category-Wifi",
+          "ID": "E3519D23-890E-4DE1-9064-DE6E7DA2515B"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel 3165 Wireless LAN Driver",
+            "TypeString": "EXE",
+            "Version": "19.51.40.1",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0piw21w.exe",
+            "Size": "12.54 MB",
+            "SHA1": "c32a8d521d82a951fcff058adf8be0f8cb34389c",
+            "SHA256": "c70a4ecb1f2347989ba805b7ea6fcd84a2031d697e81d88f3df5deff7ac8becb",
+            "MD5": "65dc2cf2dcc9276ee4edea4a259ad00d",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1651042140000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "19.51.40.1",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0piw21w.txt",
+            "Size": "9.94 KB",
+            "SHA1": "adf2e1602f1dded82a15ccfa1404bc9bc4029515",
+            "SHA256": "0dc1219d5deb375db4e30091e743f2ea4890fbc5cc2a6480213ba99a674f18e4",
+            "MD5": "a3c0f073e00dca0532d4955a4ef0dbe4",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1651042140000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501822-INTEL-3165-WIRELESS-LAN-DRIVER-FOR-WINDOWS-10-VERSION-1709-OR-LATER-THINKPAD-E480-E580",
+          "DS501822",
+          "CE21F4F8-8EAB-41B1-819D-D4B4306CD3C5"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "19.51.40.1"
+        },
+        "DocId": "DS501822",
+        "Title": "Intel 3165 Wireless LAN Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or Later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1651017600000
+        },
+        "Hit": "2131",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package installs the software to enable Intel 3165 Wireless LAN Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1651566491000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel 3165 Wireless LAN Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or Later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Networking: Wireless LAN",
+          "Classify": "dl-category-Wifi",
+          "ID": "E3519D23-890E-4DE1-9064-DE6E7DA2515B"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Qualcomm Atheros Bluetooth Driver",
+            "TypeString": "EXE",
+            "Version": "10.0.0.1159",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pab07w.exe",
+            "Size": "1.32 MB",
+            "SHA1": "b52d7d4b6b689fdfd9f76c35d46305ec2121062d",
+            "SHA256": "ffe7c4ceae6e75ad9fc052012559a06cc212181c8c9380133751f16b0e13cef5",
+            "MD5": "de09bd3c0aeeb9ab781f71fa64529e76",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1638254820000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "10.0.0.1159",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pab07w.txt",
+            "Size": "7.59 KB",
+            "SHA1": "0565e6774f0e1382200b8d2d8e6a4db1b4357222",
+            "SHA256": "82f46c7dace93125404ea28a0b665d1325a4bb5e6d54ea699bb674661ede962d",
+            "MD5": "12f4127ce48b04449417fd904af8e751",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1638254820000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS502502-QUALCOMM-ATHEROS-BLUETOOTH-DRIVER-FOR-WINDOWS-10-64-BIT-VERSION-1709-OR-LATER-THINKPAD-E480-E580",
+          "DS502502",
+          "89A73DB9-5339-4481-971F-5F1B8674E52F"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "10.0.0.1159"
+        },
+        "DocId": "DS502502",
+        "Title": "Qualcomm Atheros Bluetooth Driver for Windows 11 (Version 21H2 or later) and 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1638230400000
+        },
+        "Hit": "2025",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Qualcomm Atheros Bluetooth Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1638517617000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Qualcomm Atheros Bluetooth Driver for Windows 11 (Version 21H2 or later) and 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Bluetooth and Modem",
+          "Classify": "dl-category-bluetooth",
+          "ID": "631A1C55-4962-4A5C-B7FD-CB19B42CDF9F"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel Management Engine Firmware",
+            "TypeString": "EXE",
+            "Version": "11.8.92.4222",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pmu23w.exe",
+            "Size": "3.08 MB",
+            "SHA1": "c523ebc32ae1efb014628666156497e1485307cd",
+            "SHA256": "99e647042eb0c15345c51e253a2713ff8bfecfb29506faa3d1046c99ffc7d406",
+            "MD5": "c47e7e841e8d44b5e4b2b55019a4670c",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1653883500000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "11.8.92.4222",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pmu23w.txt",
+            "Size": "13.11 KB",
+            "SHA1": "43519c40335391f1b743c3f4a4d32aca168890d2",
+            "SHA256": "2c088b4d7627639e0ef529b0b2d9c6074a9d15bfa7f19efd828655cc402a5d29",
+            "MD5": "72bf8f3bd1aee56672e305d3f433ec7e",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1653883560000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501984-INTEL-MANAGEMENT-ENGINE-118-FIRMWARE-FOR-WINDOWS-10-64-BIT",
+          "DS501984",
+          "119868EA-E48F-454B-8801-038BFE040AB6"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "11.8.92.4222"
+        },
+        "DocId": "DS501984",
+        "Title": "Intel Management Engine 11.8 Firmware for Windows 10 (64-bit) - ThinkPad E480, E580 ",
+        "Date": {
+          "Unix": 1653868800000
+        },
+        "Hit": "2000",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package updates installs Intel Management Engine Firmware.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1654755054000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel Management Engine 11.8 Firmware for Windows 10 (64-bit) - ThinkPad E480, E580 ",
+        "Category": {
+          "Name": "Motherboard Devices (core chipset, onboard video, PCIe switches)",
+          "Classify": "dl-category-chipset",
+          "ID": "FB762CAD-DE8B-49C2-A04B-809B4958F608"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "ThinkPad Monitor INF File",
+            "TypeString": "EXE",
+            "Version": "6.13.0.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pmi08w.exe",
+            "Size": "1.05 MB",
+            "SHA1": "1aa15ac93be9fd12f05456250980d7a01d53bf67",
+            "SHA256": "3835cbc1ed2cc9dabec3034c0beed9c63e9e1f741e61644267b1fd01ff3bb76a",
+            "MD5": "073f7e254e24732a31e17d88251cec7e",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1643351580000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "6.13.0.0",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pmi08w.txt",
+            "Size": "6.36 KB",
+            "SHA1": "34f75f77ba3f39e320ae91a3529082cc61612507",
+            "SHA256": "8dabd2f9030c9a6eec34c41ff152ec1aeaa31d9b327083f5c3c585756aee119d",
+            "MD5": "61d616e8b621dad70866dd63a90d7a58",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1643351640000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501827-THINKPAD-MONITOR-INF-FILE-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580-L480-L580",
+          "DS501827",
+          "A37D5DDF-792C-4B2B-9ADE-447BD2654CC5"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "6.13.0.0"
+        },
+        "DocId": "DS501827",
+        "Title": "ThinkPad Monitor INF File for Windows 11 (Version 21H2 or later), 10 (64-bit) - ThinkPad E480, E580, L480, L580",
+        "Date": {
+          "Unix": 1643367180000
+        },
+        "Hit": "1995",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the ThinkPad Monitor INF File",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1644474924000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "ThinkPad Monitor INF File for Windows 11 (Version 21H2 or later), 10 (64-bit) - ThinkPad E480, E580, L480, L580",
+        "Category": {
+          "Name": "Graphics Processing Units (GPU) and Server-AI Accelerators",
+          "Classify": "dl-category-video",
+          "ID": "635380F4-448F-4129-AA77-265289D96F6F"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Realtek Ethernet Driver",
+            "TypeString": "EXE",
+            "Version": "10.39.212.2020",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0per07w.exe",
+            "Size": "1.63 MB",
+            "SHA1": "21d15f2ba0305c4d08c5f6df22b1cbd89161655a",
+            "SHA256": "8f14dc94b8af593771e466ea95a54369c6a08319a2197fd590a9557a4cb48f27",
+            "MD5": "0bd229cd49e659bf9dce087c256c4822",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1597390860000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "10.39.212.2020",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0per07w.txt",
+            "Size": "7.4 KB",
+            "SHA1": "d749bcc7a2055480d8385c7260761416dba91e7e",
+            "SHA256": "c2537d2af757dd905328328572337e702d0e330931e9522ceed0c4c60032f3ee",
+            "MD5": "f16533853f35df572da4a7e97f246ccd",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1597390920000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501820-REALTEK-ETHERNET-DRIVER-FOR-WINDOWS-10-64-BIT-VERSION-1709-OR-LATER-THINKPAD-E480-E580",
+          "DS501820",
+          "3B680E4E-312D-4BAB-A15F-E6B70A78C78D"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "10.39.212.2020"
+        },
+        "DocId": "DS501820",
+        "Title": "Realtek Ethernet Driver for Windows 10 64-bit (Version 1709 or later) -  ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1597363200000
+        },
+        "Hit": "1954",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Realtek Ethernet Driver for Windows.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1597641859000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "",
+        "Category": {
+          "Name": "Networking: LAN (Ethernet)",
+          "Classify": "dl-category-networking",
+          "ID": "FCAD05FA-A8F0-4C7B-8ED0-7EF35BB6B2BC"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel(R) Chipset Device Software",
+            "TypeString": "EXE",
+            "Version": "10.1.5.2",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pch06w.exe",
+            "Size": "1.07 MB",
+            "SHA1": "09e0917247f838b1b52674f4dc4e1f269b98fcad",
+            "SHA256": "eccbe5f92a08458f61df6db124fb02c076527125a67bb06c3bfbe14610744733",
+            "MD5": "35a2d93d39445a26112f1501d662feff",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1589868840000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "10.1.5.2",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pch06w.txt",
+            "Size": "7.25 KB",
+            "SHA1": "cdc61323d64a3a95355b38c8ee854213e3e816a6",
+            "SHA256": "a9fb8ca578dfae9011fc27e1b15fd0515fbc2323812da11ae44397eaf0b9cd7d",
+            "MD5": "defe33dd137a23c718e684827cd5e43b",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1589868900000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501813-INTELR-CHIPSET-DEVICE-SOFTWARE-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580",
+          "DS501813",
+          "D2A5E532-295E-46D7-8122-82F036F29DD3"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "10.1.5.2"
+        },
+        "DocId": "DS501813",
+        "Title": "Intel(R) Chipset Device Software for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1589868840000
+        },
+        "Hit": "1907",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Intel(R) Chipset Device Software for Windows 10 (64-bit) - ThinkPad E480, E580",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1643640250000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel(R) Chipset Device Software for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Motherboard Devices (core chipset, onboard video, PCIe switches)",
+          "Classify": "dl-category-chipset",
+          "ID": "FB762CAD-DE8B-49C2-A04B-809B4958F608"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Bayhub Multicard Reader Driver",
+            "TypeString": "EXE",
+            "Version": "1.1.101.1032",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pbr07w.exe",
+            "Size": "1.62 MB",
+            "SHA1": "bf56b7cca05bd9e6ab2ff5932223374be5ff9f63",
+            "SHA256": "6f9696c6c387b386a4a4c36d16ac9ac8e801a6657757a304a56ae4a0d981074f",
+            "MD5": "5d06b8d9939e9ff4685adf721c491b6b",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1643366460000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "1.1.101.1032",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pbr07w.txt",
+            "Size": "7.48 KB",
+            "SHA1": "314fbcc6b3cda88af33f033fe444350c5b0606ae",
+            "SHA256": "6f463fb64e5572befadf64fe8d059d20b246fec87338c57fe3613519e19ee170",
+            "MD5": "338cb7930a7681f05e774234a17ea57d",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1643366460000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501821-BAYHUB-MULTICARD-READER-DRIVER-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580",
+          "DS501821",
+          "A8CC99B3-8D2F-4BC1-91C3-4CDE81F49483"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "1.1.101.1032"
+        },
+        "DocId": "DS501821",
+        "Title": "Bayhub Multicard Reader Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1643328000000
+        },
+        "Hit": "1902",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the Bayhub Multicard Reader Driver",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1644474633000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Bayhub Multicard Reader Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Camera and Card Reader",
+          "Classify": "dl-category-camerareader",
+          "ID": "B7FF933A-6722-4635-9471-39DF68737A1D"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Realtek Bluetooth Package",
+            "TypeString": "EXE",
+            "Version": "1.8.1039.3000",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0prb11w.exe",
+            "Size": "1.95 MB",
+            "SHA1": "0f6a7e52f644ac7363a6479847a4324827022a0d",
+            "SHA256": "e792ce081365e59bae7d455a44ef2cf98f442f269f9a28f58e888212dab18dbb",
+            "MD5": "5bbc76527da29582b82e1682c00a5842",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1639468020000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "1.8.1039.3000",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0prb11w.txt",
+            "Size": "7.28 KB",
+            "SHA1": "f6e026a6e2d6cb0bd58c0af18629fa7a71646e83",
+            "SHA256": "790e1fc0ae0b577544f919b7bfd5474af70685cf5107d9d4010c72f36a91c710",
+            "MD5": "d1d0d1ba963d30935b41e35cdd37e87c",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1639468140000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501825-REALTEK-BLUETOOTH-PACKAGE-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580",
+          "DS501825",
+          "7D0CE766-3D29-444F-84C1-7F3F364E5553"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "1.8.1039.3000"
+        },
+        "DocId": "DS501825",
+        "Title": "Realtek Bluetooth Package for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1639440000000
+        },
+        "Hit": "1669",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the Realtek Bluetooth Package ",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1639711960000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Realtek Bluetooth Package for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Bluetooth and Modem",
+          "Classify": "dl-category-bluetooth",
+          "ID": "631A1C55-4962-4A5C-B7FD-CB19B42CDF9F"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel SGX Device and Software Driver",
+            "TypeString": "EXE",
+            "Version": "2.14.101.1",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0zsi07w.exe",
+            "Size": "5.99 MB",
+            "SHA1": "b6fa1329898ad742b3eb88c6e512f86858031476",
+            "SHA256": "36e338433dbafc94e7664d28dc2bd83ddbdef968e255edd04c278e7c3c3e82d3",
+            "MD5": "5b5f649cf2bbfbce8e37850ccc67c2a4",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1645762260000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "2.14.101.1",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0zsi07w.txt",
+            "Size": "10.92 KB",
+            "SHA1": "2e0b9d7e61c70288bf465a4eb639bbf94f3b088e",
+            "SHA256": "52674646391144058f7977df08c9a4d168dca4350d3b7bdd98b1f5b87e38a816",
+            "MD5": "4f403468ae2ef5dd0c635b516ced5dbb",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1645762320000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS540019-INTEL-SGX-DEVICE-AND-SOFTWARE-DRIVER-FOR-WINDOWS-10-VERSION-1809-OR-LATER-THINKPAD-L490-L590",
+          "DS540019",
+          "07A0D8E0-8033-11E9-9E3D-3D3BA51A9F00"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "2.14.101.1"
+        },
+        "DocId": "DS540019",
+        "Title": "Intel SGX Device and Software Driver for Windows 11 (Version 21H2 or later), 10 (Version 1809 or later, 1709 or later & 1903 or later) - ThinkPad",
+        "Date": {
+          "Unix": 1645747200000
+        },
+        "Hit": "1274",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "Intel SGX Device and Software Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1649649207000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel SGX Device and Software Driver for Windows 11 (Version 21H2 or later), 10 (Version 1809 or later, 1709 or later & 1903 or later) - ThinkPad",
+        "Category": {
+          "Name": "Software and Utilities",
+          "Classify": "dl-category-software",
+          "ID": "156BE23F-B536-4320-B35C-2F67EBDD9242"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel 3165 Bluetooth Driver",
+            "TypeString": "EXE",
+            "Version": "20.100.10.6",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pib12w.exe",
+            "Size": "1.16 MB",
+            "SHA1": "14104d520f11a068f6e4b3517e05b5fe46e2ffad",
+            "SHA256": "2d247111f29d60394db216ff136c30a29b33e856cba4740dc3b53f1c957a20c6",
+            "MD5": "2a24b7a43882978e2b632217e2e511d8",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1639641720000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "20.100.10.6",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0pib12w.txt",
+            "Size": "7.85 KB",
+            "SHA1": "c071722f964e4834fb769d6abfc06795e9f80d09",
+            "SHA256": "a36a69f1d2b188d9c627eb45f1054430c284df8e587d3ef8663e21b46601f6ce",
+            "MD5": "b0e97b2a46478508a419c44ebfd5a2cb",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1639642920000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS501824-INTEL-3165-BLUETOOTH-DRIVER-FOR-WINDOWS-10-VERSION-1709-OR-LATER-THINKPAD-E480-E580",
+          "DS501824",
+          "BAAC20B8-8570-4C6A-A324-CFEFC594226C"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "20.100.10.6"
+        },
+        "DocId": "DS501824",
+        "Title": "Intel 3165 Bluetooth Driver for Windows 11 (Version 21H2 or later) and 10 (Version 1709 or Later) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1600214400000
+        },
+        "Hit": "1132",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package installs the software to enable the Intel 3165 Wireless Bluetooth Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1639711537000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel 3165 Bluetooth Driver for Windows 11 (Version 21H2 or later) and 10 (Version 1709 or Later) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Bluetooth and Modem",
+          "Classify": "dl-category-bluetooth",
+          "ID": "631A1C55-4962-4A5C-B7FD-CB19B42CDF9F"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Synaptics Fingerprint Driver",
+            "TypeString": "EXE",
+            "Version": "5.02.0325.0026",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0yfp09w.exe",
+            "Size": "8.27 MB",
+            "SHA1": "10c0637d373f1c2fe052dce4b2a349a65e84a708",
+            "SHA256": "2bbcb81d03be79c28c6f9d02955a56cf8540cf30733d4f18a38de94bf15441fd",
+            "MD5": "e8b8fba5cb3d582e268e6fffdea832e6",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1643276100000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "5.02.0325.0026",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0yfp09w.txt",
+            "Size": "8.6 KB",
+            "SHA1": "d64ce8384a3200362d98ea3f6ac4ca5953deea00",
+            "SHA256": "e5d4f86c288c2d9011d6fb23aaa01f6bb209cdf6513b4c01c0ccf7e675fd7b16",
+            "MD5": "2dbbe3fab2ba6bfe6a982929c607bc86",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1643276160000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS505909-SYNAPTICS-FINGERPRINT-DRIVER-FOR-WINDOWS-10-64-BIT-THINKPAD-E490-VERSION-1709-OR-LATER-E590-VERSION-1809-OR-LATER",
+          "DS505909",
+          "7C5A6E30-FEBF-11E8-99AD-2D2E58633148"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "5.02.0325.0026"
+        },
+        "DocId": "DS505909",
+        "Title": "Synaptics Fingerprint Driver for Windows 11 (Version 21H2 or later), 10 Version 1709 or later and 1809 or later) - ThinkPad",
+        "Date": {
+          "Unix": 1643275980000
+        },
+        "Hit": "547",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the Synaptics Fingerprint Driver",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1644589643000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Synaptics Fingerprint Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later and 1809 or later)",
+        "Category": {
+          "Name": "Fingerprint Reader",
+          "Classify": "dl-category-fingerprint",
+          "ID": "A4F7592E-3C73-4CCF-ABB9-09549219DFC8"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)",
+          "Windows 11 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel Rapid Storage Technology Driver",
+            "TypeString": "EXE",
+            "Version": "17.11.0.1000",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0zrs08w.exe",
+            "Size": "3.31 MB",
+            "SHA1": "346fcb2c29ccf7e4922ef71e317e3d334e982cd8",
+            "SHA256": "8243bf6b309c77ec510d97168436671d2a44b91fcfc2488e0a67f4200cd206eb",
+            "MD5": "bb6a1d5238078c3b2e1746cb39e1a242",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1642147980000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "README",
+            "TypeString": "TXT README",
+            "Version": "17.11.0.1000",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0zrs08w.txt",
+            "Size": "9.33 KB",
+            "SHA1": "029ccbca0a0a02e0701dd2f8ea07b5959145c0d6",
+            "SHA256": "a6e1a84d55758cdf3ba82a985fd6ae0252bd9a06f080a1cda66d68df10f6831b",
+            "MD5": "50a511be2d1cd90b19edd7329796c675",
+            "Priority": "Recommended",
+            "PriorityWeight": 2,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1642148040000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS540017-INTEL-RAPID-STORAGE-TECHNOLOGY-DRIVER-FOR-WINDOWS-10-64-BIT-VERSION-1809-OR-LATER-THINKPAD-L490-L590",
+          "DS540017",
+          "73728A70-8031-11E9-B376-01134F0CB2EC"
+        ],
+        "SummaryInfo": {
+          "Priority": "Recommended",
+          "Version": "17.11.0.1000"
+        },
+        "DocId": "DS540017",
+        "Title": "Intel Rapid Storage Technology Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad ",
+        "Date": {
+          "Unix": 1642148820000
+        },
+        "Hit": "459",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package install the Intel Rapid Storage Technology Driver.",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1642149463000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel Rapid Storage Technology Driver for Windows 11 (Version 21H2 or later), 10 (Version 1709 or later) - ThinkPad ",
+        "Category": {
+          "Name": "Storage",
+          "Classify": "dl-category-storage",
+          "ID": "F3491C79-0A9D-4DD8-A593-A73FE52CA54C"
+        }
+      },
+      {
+        "OperatingSystemKeys": [
+          "Windows 10 (64-bit)"
+        ],
+        "Files": [
+          {
+            "OperatingSystemKeys": [],
+            "Name": "Intel HD Graphics Driver",
+            "TypeString": "EXE",
+            "Version": "25.20.100.6472/10.26.0.4",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0piv15w.exe",
+            "Size": "185 MB",
+            "SHA1": "82165d9fd395e4a0463156685c9c0d0e6c0bad41",
+            "SHA256": "7c9938593e463025495d80ba5fb7cb8750e454073ff0802ad33bd7728013afe1",
+            "MD5": "0a245b65aa865f550845cf3083183718",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1560384000000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          },
+          {
+            "OperatingSystemKeys": [],
+            "Name": "ReadMe for Intel HD Graphics Driver",
+            "TypeString": "TXT README",
+            "Version": "25.20.100.6472/10.26.0.4",
+            "URL": "https://download.lenovo.com/pccbbs/mobiles/r0piv15w.txt",
+            "Size": "8.62 KB",
+            "SHA1": "2be241f0c1dd53065062b45123d49a2dcfa5f67b",
+            "SHA256": "d757f8950ae94cf6c33953fe8993f8a22a70d9155725be8d891a19ffe5404aab",
+            "MD5": "a10043bd7cd75ccd3db8c2f323c47407",
+            "Priority": "Critical",
+            "PriorityWeight": 3,
+            "ReadmeUrl": "",
+            "HasReadme": false,
+            "Date": {
+              "Unix": 1560384000000
+            },
+            "Released": null,
+            "TypeEnString": "",
+            "FileName": ""
+          }
+        ],
+        "Audiences": [
+          {
+            "Id": "ANONYMOUS",
+            "Name": "Anonymous"
+          }
+        ],
+        "Countries": [],
+        "RestrictedCountries": [],
+        "ID": [
+          "DS553451-INTEL-HD-GRAPHICS-DRIVER-FOR-WINDOWS-10-VERSION-1607-1703-THINKPAD-E480-E580",
+          "DS553451",
+          "7C4EC2D0-3B7D-11EC-B93E-354A7E838271"
+        ],
+        "SummaryInfo": {
+          "Priority": "Critical",
+          "Version": "25.20.100.6472/10.26.0.4"
+        },
+        "DocId": "DS553451",
+        "Title": "Intel HD Graphics Driver for Windows 10 (Version 1607, 1703) - ThinkPad E480, E580",
+        "Date": {
+          "Unix": 1597795200000
+        },
+        "Hit": "58",
+        "InWarranty": false,
+        "RequireLogin": false,
+        "FixID": "",
+        "Summary": "This package installs the software (Display driver)",
+        "AlertDataLoss": false,
+        "LanguageCode": "en",
+        "Updated": {
+          "Unix": 1635817171000
+        },
+        "RebootRequired": 0,
+        "PNCheck": false,
+        "Brocade": false,
+        "Eods": "",
+        "RedirectCode": 0,
+        "RedirectTo": "",
+        "OEMOnly": false,
+        "SEOH1Content": "Intel HD Graphics Driver for Windows 10 (Version 1607, 1703) - ThinkPad E480, E580",
+        "Category": {
+          "Name": "Graphics Processing Units (GPU) and Server-AI Accelerators",
+          "Classify": "dl-category-video",
+          "ID": "635380F4-448F-4129-AA77-265289D96F6F"
+        }
+      }
+    ],
+    "ProductId": "0E1EB33D-3099-4D50-BD90-834EC41E356E",
+    "DCGFixIDNamingGuideImageUrl": "/msa/driver/images/DCGFixIDNamingGuide_EN.png",
+    "RestrictCountryList": []
+  }
+}

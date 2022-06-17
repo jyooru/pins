@@ -1,0 +1,49 @@
+#!/usr/bin/env nix-shell
+#!nix-shell -i python3 -p python3 python3Packages.requests python3Packages.rich
+from pathlib import Path
+import re
+import json
+import requests
+from rich.progress import track
+from hashlib import sha256
+
+from collections import defaultdict
+
+PRODUCT = "laptops-and-netbooks%2Fthinkpad-edge-laptops%2Fthinkpad-e580-type-20ks-20kt"
+DRIVER_URL = f"https://pcsupport.lenovo.com/au/en/api/v4/downloads/driver?docId={{}}&productId={PRODUCT}"
+DRIVERS_URL = (
+    f"https://pcsupport.lenovo.com/au/en/api/v4/downloads/drivers?productId={PRODUCT}"
+)
+DRIVERS_WITH_EXTRA_VERSIONS = [
+    "DS501843-BIOS-UPDATE-UTILITY-BOOTABLE-CD-FOR-WINDOWS-10-64-BIT-THINKPAD-E480-E580"
+]
+
+
+def main() -> None:
+    parent = Path(__file__).parent
+
+    response = requests.get(DRIVERS_URL)
+    response.raise_for_status()
+    with open(parent / "sources.json", "w") as file:
+        # this file contains extra info such as descriptions that I would like to keep, so save the whole file
+        json.dump(response.json(), file, indent=2)
+
+    extra = defaultdict(dict)
+    for driver in DRIVERS_WITH_EXTRA_VERSIONS:
+        response = requests.get(DRIVER_URL.format(driver.lower()))
+        response.raise_for_status()
+
+        # escaped html: &lt;a href=&quot;https://...&quot;&gt;
+        body = response.json()["body"]["DriverDetails"]["Body"]
+        for match in track(
+            re.findall("(https://[/\w.]+)", body), "Fetching and hashing..."
+        ):
+            response = requests.get(match)
+            response.raise_for_status()
+            extra[driver][Path(match).name] = sha256(response.content).hexdigest()
+    with open(parent / "extra-sources.json", "w") as file:
+        json.dump(extra, file, indent=2)
+
+
+if __name__ == "__main__":
+    main()

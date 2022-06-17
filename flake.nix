@@ -21,9 +21,11 @@
         let args = { inherit inputs; pkgs = channels.nixpkgs; }; in
         with nixpkgs.lib;
         rec {
-          packages = import ./packages args // {
-            websites = recurseIntoAttrs (import ./websites args);
-          };
+          packages = import ./packages args // (genAttrs [
+            "hardware"
+            "websites"
+          ]
+            (folder: recurseIntoAttrs (import (./. + "/${folder}") args)));
         };
     };
 }
